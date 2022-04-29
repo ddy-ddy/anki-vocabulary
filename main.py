@@ -4,7 +4,7 @@ import pandas as pd
 # 读取json中的数据
 info = []
 words = []
-with open("data/KaoYan.json", 'r') as f:
+with open("data/KaoYan_frequent.json", 'r') as f:
     for line in f.readlines():
         temp_info = eval(line)
         if temp_info["content"]["word"]["wordHead"]:
