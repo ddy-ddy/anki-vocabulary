@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2022/5/14 9:10 下午
+# @Time    : 2022/5/14 10:17 下午
 # @Author  : ddy
-# @FileName: main.py
+# @FileName: main_frequency.py
 # @github  : https://github.com/ddy-ddy
 
 import json
@@ -10,22 +10,12 @@ import pandas as pd
 # 读取json中的数据
 info = []
 words = []
-with open("data/KaoYan.json", 'r') as f:
+with open("data/KaoYan_frequent.json", 'r') as f:
     for line in f.readlines():
         temp_info = eval(line)
         if temp_info["content"]["word"]["wordHead"]:
             words.append(temp_info["content"]["word"]["wordHead"])
             info.append(temp_info)
-f.close()
-
-# 提取出word，用于导入到vocabulary
-count = 0
-for word in words:
-    str = f"txt_data/words_{count // 500}.txt"
-    with open(str, 'a+') as f:
-        f.write(word)
-        f.write("\n")
-    count += 1
 f.close()
 
 # 提取word，解释，例子，用于导入到anki
@@ -81,21 +71,6 @@ for temp in info:
     # anki = trans_str +"\n"+ exm_str
     all_info.append([word, word_sen, word_sen_trans, trans_str, exm_str])
     # example_sen.append([anki_info["example"][0], anki_info["example"][1]])
-
-total_num = 9
-for i in range(total_num + 1):
-    file_name = f"csv_data/anki_{i}.csv"
-    if i <= 8:
-        this_info = all_info[i * 500:(i + 1) * 500]
-    else:
-        this_info = all_info[i * 500:]
-
-    data = pd.DataFrame({"word": [item[0] for item in this_info],
-                         "word_sen": [item[1] for item in this_info],
-                         "word_sen_trans": [item[2] for item in this_info],
-                         "trans": [item[3] for item in this_info],
-                         "example": [item[4] for item in this_info]})
-    data.to_csv(file_name, index=False)
 
 this_info = all_info
 data = pd.DataFrame({"word": [item[0] for item in this_info],

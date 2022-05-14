@@ -1,16 +1,16 @@
-word,trans,example
-momentum,"n.势头；[物] 动量；动力；冲力
+word,word_sen,word_sen_trans,trans,example
+momentum,incentives to maintain the momentum of European integration,保持欧洲一体化发展势头的激励措施,"n.势头；[物] 动量；动力；冲力
 ","1. incentives to maintain the momentum of European integration
 保持欧洲一体化发展势头的激励措施
 2. Governments often lose momentum in their second term of office.
 政府往往会在第二届任期中丧失冲劲。
 "
-console,"n.[计] 控制台；[电] 操纵台
+console,No one could console her when Peter died.,彼得去世时没人能够安慰她。,"n.[计] 控制台；[电] 操纵台
 v.安慰；慰藉
 ","1. No one could console her when Peter died.
 彼得去世时没人能够安慰她。
 "
-apple,"n.苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。
+apple,apple pie,苹果馅饼,"n.苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。
 ","1. apple pie
 苹果馅饼
 2. an apple tree
@@ -18,11 +18,11 @@ apple,"n.苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，
 3. roast pork and apple sauce (=  a thick sauce made from cooked apples  )
 烤猪肉配苹果酱汁
 "
-cathedral,"n.大教堂
+cathedral,St Paul’s Cathedral,圣保罗大教堂,"n.大教堂
 ","1. St Paul’s Cathedral
 圣保罗大教堂
 "
-gently,"adv.轻轻地；温柔地，温和地
+gently,"‘You go back to bed now,’ he said gently.",“你回去睡觉吧。”他温柔地说道。,"adv.轻轻地；温柔地，温和地
 ","1. ‘You go back to bed now,’ he said gently.
 “你回去睡觉吧。”他温柔地说道。
 2. She kissed me gently on the cheek.
@@ -34,32 +34,32 @@ gently,"adv.轻轻地；温柔地，温和地
 5. The road curved gently upwards.
 路缓缓地蜿蜒而上。
 "
-drastic,"adj.激烈的；猛烈的
+drastic,drastic cuts in government spending,政府开支的急剧削减,"adj.激烈的；猛烈的
 n.烈性泻药
 ","1. drastic cuts in government spending
 政府开支的急剧削减
 2. Drastic changesare needed if environmental catastrophe is to be avoided.
 要想避免环境灾难就需要重大的变革。
 "
-rainbow,"n.彩虹；五彩缤纷的排列；幻想
+rainbow,...silk and satin in every shade of the rainbow.,…如彩虹般五颜六色的丝绸与锦缎。,"n.彩虹；五彩缤纷的排列；幻想
 adj.五彩缤纷的；彩虹状的
 vt.使呈彩虹状；如彩虹般装饰
 vi.呈彩虹状
 ","1. ...silk and satin in every shade of the rainbow.
 …如彩虹般五颜六色的丝绸与锦缎。
 "
-noon,"n.中午；正午；全盛期
+noon,We met at 12 noon.,我们中午12点见了面。,"n.中午；正午；全盛期
 ","1. We met at 12 noon.
 我们中午12点见了面。
 "
-circle,"n.循环，周期；圆；圈子；圆形物
+circle,Draw a circle 10cm in diameter.,画一个直径10厘米的圆形。,"n.循环，周期；圆；圈子；圆形物
 v.盘旋，旋转；环行
 ","1. Draw a circle 10cm in diameter.
 画一个直径10厘米的圆形。
 2. Cut the pastry into circles.
 将油酥面团切成圆形。
 "
-northeast,"adj.东北的；向东北的；来自东北的
+northeast,...a climate like that of our northeast coast.,…同我们东北部沿海气候相似的一种气候。,"adj.东北的；向东北的；来自东北的
 n.东北
 adv.向东北；来自东北
 ","1. ...a climate like that of our northeast coast.
@@ -67,19 +67,19 @@ adv.向东北；来自东北
 2. ""We're going northeast,"" Paula told them, before they started.
 “我们将朝东北方向走，”葆拉在他们出发前告诉他们。
 "
-silicon,"n.[化学] 硅；硅元素
+silicon,,,"n.[化学] 硅；硅元素
 ",
-exceedingly,"adv.非常；极其；极度地；极端
+exceedingly,Thank you. You’ve been exceedingly kind.,谢谢，你真是太好了。,"adv.非常；极其；极度地；极端
 ","1. Thank you. You’ve been exceedingly kind.
 谢谢，你真是太好了。
 "
-majesty,"n.威严；最高权威，王权；雄伟；权威
+majesty,,,"n.威严；最高权威，王权；雄伟；权威
 ",
-spokesman,"n.发言人；代言人
+spokesman,a White House spokesman,白宫发言人,"n.发言人；代言人
 ","1. a White House spokesman
 白宫发言人
 "
-hint,"n.暗示；线索
+hint,There have been hints that he may take up coaching.,他暗示过可能会出任教练。,"n.暗示；线索
 v.暗示；示意
 ","1. There have been hints that he may take up coaching.
 他暗示过可能会出任教练。
@@ -88,22 +88,22 @@ v.暗示；示意
 3. I made it clear I wasn’t interested in him, but he didn’t take the hint .
 我清楚地表明我对他不感兴趣，但他不明白我的意思。
 "
-bottle,"n.瓶子；一瓶的容量
+bottle,an empty bottle,一个空瓶子,"n.瓶子；一瓶的容量
 v.控制；把…装入瓶中
 ","1. an empty bottle
 一个空瓶子
 "
-interface,"n.界面；<计>接口；交界面
+interface,...the development of better user interfaces.,…更好用户界面的开发。,"n.界面；<计>接口；交界面
 v.（使通过界面或接口）接合，连接；[计算机]使联系
 ","1. ...the development of better user interfaces.
 …更好用户界面的开发。
 "
-cereal,"n.谷类，谷物；谷类食品；谷类植物
+cereal,a bowl of breakfast cereal,一碗早餐麦片,"n.谷类，谷物；谷类食品；谷类植物
 adj.谷类的；谷类制成的
 ","1. a bowl of breakfast cereal
 一碗早餐麦片
 "
-entertainment,"n.娱乐；消遣；款待
+entertainment,The town provides a wide choice of entertainment.,该镇提供各式各样的娱乐活动。,"n.娱乐；消遣；款待
 ","1. The town provides a wide choice of entertainment.
 该镇提供各式各样的娱乐活动。
 2. There will be live entertainment (= performed then, not recorded ) throughout the day.
@@ -111,17 +111,17 @@ entertainment,"n.娱乐；消遣；款待
 3. The dolphins give good entertainment value (= a lot of amusement and interest ).
 海豚具有很高的娱乐价值。
 "
-schedule,"v.安排，计划；编制目录；将……列入计划表
+schedule,We will not cancel your holiday less than eight weeks before the scheduled departure date .,离预定出发日期少于八周，度假行程将不能取消。,"v.安排，计划；编制目录；将……列入计划表
 n.时间表；计划表；一览表
 ","1. We will not cancel your holiday less than eight weeks before the scheduled departure date .
 离预定出发日期少于八周，度假行程将不能取消。
 "
-mainland,"n.大陆；本土
+mainland,flights between a Greek island and the mainland,希腊一海岛和本土之间的航班,"n.大陆；本土
 adj.大陆的；本土的
 ","1. flights between a Greek island and the mainland
 希腊一海岛和本土之间的航班
 "
-rash,"adj.轻率的；鲁莽的；不顾后果的
+rash,"Please Jessie, don’t do anything rash.",求你了，杰西，不要草率行事。,"adj.轻率的；鲁莽的；不顾后果的
 n.[皮肤] 皮疹；突然大量出现的事物
 ","1. Please Jessie, don’t do anything rash.
 求你了，杰西，不要草率行事。
@@ -130,28 +130,28 @@ n.[皮肤] 皮疹；突然大量出现的事物
 3. It was rather rash of you to lend them your car.
 你把汽车借给他们实在有欠考虑。
 "
-identification,"n.鉴定，识别；认同；身份证明
+identification,Do you have any identification?,你有什么身份证明文件吗？,"n.鉴定，识别；认同；身份证明
 ","1. Do you have any identification?
 你有什么身份证明文件吗？
 2. fingerprinting as a means of identification
 作为一种身份证明方式的指纹提取
 "
-tender,"adj.温柔的；柔软的；脆弱的；幼稚的；难对付的
+tender,Continue cooking until the meat is tender.,把肉一直烧到松软为止。,"adj.温柔的；柔软的；脆弱的；幼稚的；难对付的
 n.偿付，清偿；看管人；小船
 v.提供，偿还；使…变嫩；使…变柔软
 ","1. Continue cooking until the meat is tender.
 把肉一直烧到松软为止。
 "
-clothe,"v.给…穿衣；覆盖；赋予
+clothe,They could barely keep the family fed and clothed.,他们几乎无力为家人提供衣食。,"v.给…穿衣；覆盖；赋予
 ","1. They could barely keep the family fed and clothed.
 他们几乎无力为家人提供衣食。
 "
-velvet,"n.天鹅绒，丝绒；天鹅绒似的东西
+velvet,green velvet drapes,绿色丝绒帷帘,"n.天鹅绒，丝绒；天鹅绒似的东西
 adj.天鹅绒的
 ","1. green velvet drapes
 绿色丝绒帷帘
 "
-overtime,"n.[劳经] 加班时间；延长时间；加时赛
+overtime,six hours’ overtime,六小时的加班,"n.[劳经] 加班时间；延长时间；加时赛
 adj.超时的；加班的
 vt.使超过时间
 adv.加班地
@@ -166,14 +166,14 @@ adv.加班地
 5. Many of our offices will be working on overtime until the end of the year.
 我们的许多办事处都要加班到年底。
 "
-scar,"v.伤害；给留下伤痕
+scar,His hands were badly scarred by the fire.,他的双手被那次大火烧得疤痕累累。,"v.伤害；给留下伤痕
 n.创伤；伤痕
 ","1. His hands were badly scarred by the fire.
 他的双手被那次大火烧得疤痕累累。
 2. She will probably be scarred for life .
 她有可能留下永久的疤痕。
 "
-blunt,"adj.钝的，不锋利的；生硬的；直率的
+blunt,Sharpen all your blunt knives.,把你所有的钝刀子都磨一磨。,"adj.钝的，不锋利的；生硬的；直率的
 v.使迟钝
 n.(Blunt)人名；(英)布伦特
 ","1. Sharpen all your blunt knives.
@@ -181,69 +181,69 @@ n.(Blunt)人名；(英)布伦特
 2. a blunt pencil
 钝铅笔
 "
-temperature,"n.温度；体温；气温；发烧
+temperature,The temperature of the water was just right for swimming.,这水温游泳正好。,"n.温度；体温；气温；发烧
 ","1. The temperature of the water was just right for swimming.
 这水温游泳正好。
 2. Water boils at a temperature of 100˚C.
 水在100摄氏度沸腾。
 "
-candle,"n.蜡烛；烛光；烛形物
+candle,When the candle was only half an inch high it flickered out and the room became dark.,蜡烛只有半英寸长时，烛光忽闪忽闪地熄灭了，于是房间一片漆黑。,"n.蜡烛；烛光；烛形物
 v.对着光检查
 ","1. When the candle was only half an inch high it flickered out and the room became dark.
 蜡烛只有半英寸长时，烛光忽闪忽闪地熄灭了，于是房间一片漆黑。
 "
-bundle,"n.束；捆
+bundle,a small bundle containing mostly clothing,一个小包袱，里面主要是衣服,"n.束；捆
 v.捆
 ","1. a small bundle containing mostly clothing
 一个小包袱，里面主要是衣服
 "
-overtake,"v.赶上；压倒；突然来袭
+overtake,He pulled out to overtake the van.,他把车驶出所在车道想超过那辆小货车。,"v.赶上；压倒；突然来袭
 ","1. He pulled out to overtake the van.
 他把车驶出所在车道想超过那辆小货车。
 "
-chaos,"n.混沌，混乱
+chaos,The country was plunged into economic chaos.,这个国家陷入了经济大混乱。,"n.混沌，混乱
 ","1. The country was plunged into economic chaos.
 这个国家陷入了经济大混乱。
 "
-hysterical,"adj.歇斯底里的；异常兴奋的
+hysterical,Janet became hysterical and began screaming.,珍妮特歇斯底里起来，开始尖叫。,"adj.歇斯底里的；异常兴奋的
 ","1. Janet became hysterical and began screaming.
 珍妮特歇斯底里起来，开始尖叫。
 2. Everyone in the studio burst into hysterical laughter .
 演播室里的每个人都爆发出一阵狂笑。
 "
-meditation,"n.冥想；沉思，深思
+meditation,"Yoga involves breathing exercises, stretching, and meditation.",瑜伽包括呼吸训练、伸展和冥想。,"n.冥想；沉思，深思
 ","1. Yoga involves breathing exercises, stretching, and meditation.
 瑜伽包括呼吸训练、伸展和冥想。
 "
-accordance,"n.一致；和谐
+accordance,"IT organizations working in an environment with compliance requirements must to be able to document that they have designed, implemented, and tested the application in accordance with these standards.",工作在有法规遵循要求的环境中的IT组织必须能够证明他们已经计划、执行，并测试了这个应用软件与这些标准是保持一致的。,"n.一致；和谐
 ","1. IT organizations working in an environment with compliance requirements must to be able to document that they have designed, implemented, and tested the application in accordance with these standards.
 工作在有法规遵循要求的环境中的IT组织必须能够证明他们已经计划、执行，并测试了这个应用软件与这些标准是保持一致的。
 "
-corridor,"n.走廊
+corridor,Go down here and the bathroom’s at the end of the corridor.,沿着这儿走，浴室就在走廊的尽头。,"n.走廊
 ","1. Go down here and the bathroom’s at the end of the corridor.
 沿着这儿走，浴室就在走廊的尽头。
 "
-chase,"v.追逐；追捕；试图赢得；雕镂
+chase,The dogs saw him running and chased him.,那些狗看到他在跑就追他。,"v.追逐；追捕；试图赢得；雕镂
 n.追逐；追赶；追击
 ","1. The dogs saw him running and chased him.
 那些狗看到他在跑就追他。
 2. kids chasing around the house
 在屋里追逐嬉戏的孩子们
 "
-restrain,"v.抑制，控制；约束；制止
+restrain,Renwick restrained a feeling of annoyance.,伦威克忍住了不悦的情绪。,"v.抑制，控制；约束；制止
 ","1. Renwick restrained a feeling of annoyance.
 伦威克忍住了不悦的情绪。
 "
-substance,"n.物质；实质；资产；主旨
+substance,The leaves were covered with a strange sticky substance.,树叶上覆着一层黏糊糊的怪东西。,"n.物质；实质；资产；主旨
 ","1. The leaves were covered with a strange sticky substance.
 树叶上覆着一层黏糊糊的怪东西。
 "
-adventure,"n.冒险；冒险精神；投机活动
+adventure,Come on – where’s your sense of adventure?,来吧——你的冒险精神哪里去了？,"n.冒险；冒险精神；投机活动
 v.冒险；大胆说出
 ","1. Come on – where’s your sense of adventure?
 来吧——你的冒险精神哪里去了？
 "
-adverb,"n.副词
+adverb,Will you please compare the adverb “well”?,请你说出副词“well”的原级、比较级和最高级好吗?,"n.副词
 adj.副词的
 ","1. Will you please compare the adverb “well”?
 请你说出副词“well”的原级、比较级和最高级好吗?
@@ -252,11 +252,11 @@ adj.副词的
 3. For our purposes, we get the definition of a word as well as its pronunciation and type (for example, adjective, noun, verb, adverb).
 我们这里只涉及到词汇的定义、音标和词性（如形容词、名词、动词、副词等）。
 "
-furnace,"n.火炉，熔炉
+furnace,It was hot summer and at the edge of the desert it was like a furnace.,那是一个炎热的夏天，在沙漠的边缘，天热得像火炉一样。,"n.火炉，熔炉
 ","1. It was hot summer and at the edge of the desert it was like a furnace.
 那是一个炎热的夏天，在沙漠的边缘，天热得像火炉一样。
 "
-dubious,"adj.可疑的；暧昧的；无把握的；半信半疑的
+dubious,The firm was accused of dubious accounting practices.,该公司被指控有不诚实的会计行为。,"adj.可疑的；暧昧的；无把握的；半信半疑的
 ","1. The firm was accused of dubious accounting practices.
 该公司被指控有不诚实的会计行为。
 2. Many critics regard this argument as dubious or, at best, misleading.
@@ -264,24 +264,24 @@ dubious,"adj.可疑的；暧昧的；无把握的；半信半疑的
 3. The assumption that growth in one country benefits the whole world is highly dubious .
 一国的经济增长会对全世界有益的假设是很值得怀疑的。
 "
-annoy,"v.骚扰；惹恼；打搅
+annoy,He is not doing this to annoy you.,他做这件事并非是要惹你烦恼。,"v.骚扰；惹恼；打搅
 n.烦恼（等于annoyance）
 ","1. He is not doing this to annoy you.
 他做这件事并非是要惹你烦恼。
 2. I am convinced that some people complain just to annoy me, for something to do, or they simply enjoy complaining.
 我以为身边的人抱怨是为了令我烦恼、是为了解决某些事、又或者他们就是喜欢抱怨。
 "
-liable,"adj.有责任的，有义务的；应受罚的；有…倾向的；易…的
+liable,She will grow into a woman particularly liable to depression.,她将变成一个特别易于消沉的女人。,"adj.有责任的，有义务的；应受罚的；有…倾向的；易…的
 ","1. She will grow into a woman particularly liable to depression.
 她将变成一个特别易于消沉的女人。
 "
-sticky,"adj.粘的；粘性的
+sticky,There’s some sticky stuff in your hair.,你的头发上有什么黏糊糊的东西。,"adj.粘的；粘性的
 ","1. There’s some sticky stuff in your hair.
 你的头发上有什么黏糊糊的东西。
 2. a sticky floor
 黏糊糊的地板
 "
-thirsty,"adj.口渴的，口干的；渴望的，热望的
+thirsty,Can I have a glass of water? I’m really thirsty.,我能喝一杯水吗？ 我太渴了。,"adj.口渴的，口干的；渴望的，热望的
 ","1. Can I have a glass of water? I’m really thirsty.
 我能喝一杯水吗？ 我太渴了。
 2. He’d been working in the garden and was very hot and thirsty.
@@ -289,14 +289,14 @@ thirsty,"adj.口渴的，口干的；渴望的，热望的
 3. All this digging is thirsty work (= work that makes you want a drink ) .
 这种挖地的活干了让人口渴。
 "
-basket,"n.篮子；（篮球比赛的）得分；一篮之量；篮筐
+basket,a shopping basket,购物篮,"n.篮子；（篮球比赛的）得分；一篮之量；篮筐
 vt.装入篮
 ","1. a shopping basket
 购物篮
 2. a basket full of vegetables
 装满蔬菜的篮子
 "
-chart,"n.图表；海图；图纸；排行榜
+chart,a chart showing last year’s sales,显示去年销售情况的一份图表,"n.图表；海图；图纸；排行榜
 v.绘制…的图表；在海图上标出；详细计划；记录；记述；跟踪（进展或发展
 ","1. a chart showing last year’s sales
 显示去年销售情况的一份图表
@@ -305,7 +305,7 @@ v.绘制…的图表；在海图上标出；详细计划；记录；记述；跟
 3. the theatre’s seating chart
 剧场的座位图
 "
-nut,"n.螺母，螺帽；坚果；难对付的人，难解的问题
+nut,a pine nut,松子,"n.螺母，螺帽；坚果；难对付的人，难解的问题
 v.采坚果
 ","1. a pine nut
 松子
@@ -314,7 +314,7 @@ v.采坚果
 3. We were sitting round the fire cracking nuts (= opening them ).
 我们围坐在火炉边夹碎坚果。
 "
-upstairs,"adv.在楼上，向楼上；上楼；往楼上
+upstairs,I went upstairs and had a shower.,我上楼冲了个澡。,"adv.在楼上，向楼上；上楼；往楼上
 adj.楼上的
 n.楼上
 ","1. I went upstairs and had a shower.
@@ -324,19 +324,19 @@ n.楼上
 3. Marsani moved into the upstairs apartment.
 玛萨妮搬进了楼上的公寓。
 "
-garden,"n.花园；菜园
+garden,He’s outside in the garden.,他在外面花园里。,"n.花园；菜园
 v.栽培花木
 ","1. He’s outside in the garden.
 他在外面花园里。
 2. Grace brought us some flowers from her garden.
 格雷丝给我们送来一些她花园里的花。
 "
-mate,"n.助手，大副；配偶；同事；配对物
+mate,He has found his ideal mate.,他已经找到了理想的配偶。,"n.助手，大副；配偶；同事；配对物
 v.使配对；使一致；结伴
 ","1. He has found his ideal mate.
 他已经找到了理想的配偶。
 "
-vertical,"adj.垂直的，直立的；[解剖] 头顶的，顶点的
+vertical,a vertical line ,垂直线,"adj.垂直的，直立的；[解剖] 头顶的，顶点的
 n.垂直线，垂直面
 ","1. a vertical line 
 垂直线
@@ -345,7 +345,7 @@ n.垂直线，垂直面
 3. vertical window blinds
 垂直百叶窗
 "
-cemetery,"n.墓地；公墓
+cemetery,Her father was laid in a cemetery.,她父亲安葬在一处公墓。,"n.墓地；公墓
 ","1. Her father was laid in a cemetery.
 她父亲安葬在一处公墓。
 2. The body was interred at that cemetery.
@@ -353,26 +353,26 @@ cemetery,"n.墓地；公墓
 3. He rests in a cemetery in the western suburbs of Beijing.
 他长眠于北京西郊的一个公墓中。
 "
-fairy,"n.仙女，小精灵；漂亮姑娘
+fairy,,,"n.仙女，小精灵；漂亮姑娘
 adj.虚构的；仙女的
 ",
-lantern,"n.灯笼；提灯；灯笼式天窗
+lantern,,,"n.灯笼；提灯；灯笼式天窗
 ",
-ignorant,"adj.无知的；愚昧的
+ignorant,an ignorant and uneducated man,不学无术的人,"adj.无知的；愚昧的
 ","1. an ignorant and uneducated man
 不学无术的人
 "
-glitter,"v.闪光；闪烁
+glitter,The river glittered in the sunlight.,阳光下河面波光粼粼。,"v.闪光；闪烁
 n.闪光；灿烂
 ","1. The river glittered in the sunlight.
 阳光下河面波光粼粼。
 "
-vest,"n.背心；汗衫
+vest,a bulletproof vest,防弹背心,"n.背心；汗衫
 v.授予；使穿衣
 ","1. a bulletproof vest
 防弹背心
 "
-orange,"adj.橙色的；橘色的
+orange,orange juice,橙汁,"adj.橙色的；橘色的
 n.橙；橙色；桔子
 ","1. orange juice
 橙汁
@@ -383,97 +383,97 @@ n.橙；橙色；桔子
 4. orange groves (= where orange trees grow )
 柑橘园
 "
-persecute,"v.迫害；困扰；同…捣乱
+persecute,The Puritans left England to escape being persecuted.,清教徒离开了英国以躲避迫害。,"v.迫害；困扰；同…捣乱
 ","1. The Puritans left England to escape being persecuted.
 清教徒离开了英国以躲避迫害。
 "
-veto,"n.否决权
+veto,The Senate had a sufficient majority to override the presidential veto (= not accept his refusal ).,参议院有足够的多数票可以推翻总统的否决。,"n.否决权
 v.否决；禁止
 ","1. The Senate had a sufficient majority to override the presidential veto (= not accept his refusal ).
 参议院有足够的多数票可以推翻总统的否决。
 "
-agriculture,"n.农业；农耕；农业生产；农艺，农学
+agriculture,More than 75% of the land is used for agriculture.,75%以上的土地用于农耕。,"n.农业；农耕；农业生产；农艺，农学
 ","1. More than 75% of the land is used for agriculture.
 75%以上的土地用于农耕。
 "
-housewife,"n.家庭主妇
+housewife,"Married at nineteen, she was a traditional housewife and mother of four children.",她19岁就结婚了，是个传统的家庭主妇和4个孩子的母亲。,"n.家庭主妇
 ","1. Married at nineteen, she was a traditional housewife and mother of four children.
 她19岁就结婚了，是个传统的家庭主妇和4个孩子的母亲。
 "
-preliminary,"n.准备；预赛；初步措施
+preliminary,"After the usual preliminaries , the chairman made his announcement.",一段例行的开场白之后，主席发布了通告。,"n.准备；预赛；初步措施
 adj.初步的；开始的；预备的
 ","1. After the usual preliminaries , the chairman made his announcement.
 一段例行的开场白之后，主席发布了通告。
 "
-chalk,"v.用粉笔写；用白垩粉擦；记录；规划
+chalk,He chalked the message on the blackboard.,他用粉笔把这条消息写在黑板上。,"v.用粉笔写；用白垩粉擦；记录；规划
 n.粉笔；白垩；用粉笔划的记号
 adj.用粉笔写的
 ","1. He chalked the message on the blackboard.
 他用粉笔把这条消息写在黑板上。
 "
-ceiling,"n.天花板；上限
+ceiling,rooms with high ceilings,天花板很高的房间,"n.天花板；上限
 ","1. rooms with high ceilings
 天花板很高的房间
 2. a light hanging from the ceiling
 吊在天花板上的灯
 "
-navigation,"n.航行；航海
+navigation,compasses and other instruments of navigation,罗盘及其他导航仪器,"n.航行；航海
 ","1. compasses and other instruments of navigation
 罗盘及其他导航仪器
 "
-communism,"n.共产主义
+communism,...the ultimate triumph of communism in the world.,…共产主义在全世界的最终胜利。,"n.共产主义
 ","1. ...the ultimate triumph of communism in the world.
 …共产主义在全世界的最终胜利。
 "
-scarf,"n.围巾；嵌接，嵌接处；头巾领巾
+scarf,He reached up to loosen the scarf around his neck.,他伸出手松开围在脖子上的围巾。,"n.围巾；嵌接，嵌接处；头巾领巾
 v.披嵌接；用围巾围
 ","1. He reached up to loosen the scarf around his neck.
 他伸出手松开围在脖子上的围巾。
 "
-scare,"v.惊吓；把…吓跑
+scare,"I don’t scare easily, you know.",你知道我不是那么容易给吓倒的！,"v.惊吓；把…吓跑
 n.恐慌；惊吓；惊恐
 adj.（美）骇人的
 ","1. I don’t scare easily, you know.
 你知道我不是那么容易给吓倒的！
 "
-engagement,"n.婚约；约会；交战；诺言
+engagement,Their engagement was announced in the paper.,他们订婚的消息在报上公布了。,"n.婚约；约会；交战；诺言
 ","1. Their engagement was announced in the paper.
 他们订婚的消息在报上公布了。
 2. Tony was stunned when Lisa suddenly broke off their engagement (= finished it ).
 托尼对莉萨突然解除他俩的婚约感到震惊。
 "
-uproar,"n.骚动；喧嚣
+uproar,The announcement caused uproar in the crowd.,公告在人群中引起了一阵骚动。,"n.骚动；喧嚣
 ","1. The announcement caused uproar in the crowd.
 公告在人群中引起了一阵骚动。
 "
-mouse,"n.鼠标；老鼠；胆小羞怯的人
+mouse,The cat laid a dead mouse at my feet.,猫把一只死老鼠放在我的脚边。,"n.鼠标；老鼠；胆小羞怯的人
 v.探出
 ","1. The cat laid a dead mouse at my feet.
 猫把一只死老鼠放在我的脚边。
 2. a field mouse
 田鼠
 "
-romance,"n.传奇；浪漫史；风流韵事；冒险故事
+romance,Michelle married him after a whirlwind romance (= one that happens very suddenly and quickly ) .,经过一场旋风式的恋爱，米歇尔嫁给了他。,"n.传奇；浪漫史；风流韵事；冒险故事
 v.虚构；渲染；写传奇
 ","1. Michelle married him after a whirlwind romance (= one that happens very suddenly and quickly ) .
 经过一场旋风式的恋爱，米歇尔嫁给了他。
 "
-verb,"n.动词；动词词性；动词性短语或从句
+verb,The German verb is postponed.,德语动词放在句末。,"n.动词；动词词性；动词性短语或从句
 adj.动词的；有动词性质的；起动词作用的
 ","1. The German verb is postponed.
 德语动词放在句末。
 "
-tutor,"v.辅导；约束
+tutor,He was privately tutored.,他是由家庭教师教的。,"v.辅导；约束
 n.导师；家庭教师；助教
 ","1. He was privately tutored.
 他是由家庭教师教的。
 "
-sociable,"adj.社交的；好交际的；友善的
+sociable,"a pleasant, sociable couple",一对和善且喜欢与人交往的夫妇,"adj.社交的；好交际的；友善的
 n.联谊会
 ","1. a pleasant, sociable couple
 一对和善且喜欢与人交往的夫妇
 "
-dirty,"adj.下流的，卑鄙的；肮脏的；恶劣的；暗淡的
+dirty,a stack of dirty dishes in the sink,洗涤槽里的一堆脏碟子,"adj.下流的，卑鄙的；肮脏的；恶劣的；暗淡的
 v.弄脏
 ","1. a stack of dirty dishes in the sink
 洗涤槽里的一堆脏碟子
@@ -482,16 +482,16 @@ v.弄脏
 3. He was afraid the dog's hairs might dirty the seats.
 他担心狗毛会把座椅弄脏。
 "
-transparent,"adj.透明的；显然的；坦率的；易懂的
+transparent,a transparent plastic container,透明的塑料容器,"adj.透明的；显然的；坦率的；易懂的
 ","1. a transparent plastic container
 透明的塑料容器
 "
-forecast,"v.预报，预测；预示
+forecast,Rain was forecast for the weekend.,预报周末有雨。,"v.预报，预测；预示
 n.预测，预报；预想
 ","1. Rain was forecast for the weekend.
 预报周末有雨。
 "
-infrared,"n.红外线
+infrared,Both the model and the satellite sensor use infrared energy to measure clouds.,模型和卫星传感器都使用红外能量来进行云的估算。,"n.红外线
 adj.红外线的
 ","1. Both the model and the satellite sensor use infrared energy to measure clouds.
 模型和卫星传感器都使用红外能量来进行云的估算。
@@ -500,11 +500,11 @@ adj.红外线的
 3. His discovery of the electromagnetic spectrum led to the development of television, radio, microwaves, as well as aiding in the development of radio and infrared telescopes.
 他发现的电磁特性最终导致电视、广播、微波炉的发明，并且也对无线电和红外望远镜的发明起到了重要作用。
 "
-mourn,"v.哀悼；忧伤；服丧
+mourn,Hundreds of people gathered to mourn the slain president.,成百上千人聚集在一起悼念遇刺的总统。,"v.哀悼；忧伤；服丧
 ","1. Hundreds of people gathered to mourn the slain president.
 成百上千人聚集在一起悼念遇刺的总统。
 "
-chill,"n.寒冷；寒意；寒心
+chill,There was a slight chill in the air .,空气中有些微的寒意。,"n.寒冷；寒意；寒心
 adj.寒冷的；冷漠的；扫兴的
 v.冷冻，冷藏；使寒心；使感到冷
 ","1. There was a slight chill in the air .
@@ -512,24 +512,24 @@ v.冷冻，冷藏；使寒心；使感到冷
 2. I turned on the heater in the hall to take the chill off the house (= to heat it slightly ) .
 我开了厅里的暖气给屋子驱寒。
 "
-myth,"n.神话；虚构的人，虚构的事
+myth,a book of Greek myths,一本关于希腊神话的图书,"n.神话；虚构的人，虚构的事
 ","1. a book of Greek myths
 一本关于希腊神话的图书
 2. the giants of myth and fairytale
 神话和童话里的巨人
 "
-designate,"v.指定；指派；标出；把…定名为
+designate,Buildings are designated by red squares on the map.,在地图上建筑物用红色方块标明。,"v.指定；指派；标出；把…定名为
 adj.指定的；选定的
 ","1. Buildings are designated by red squares on the map.
 在地图上建筑物用红色方块标明。
 "
-clarity,"n.清楚，明晰；透明
+clarity,Letters may be edited for length and clarity.,信件可能要加以修改以求篇幅合适，意思明了。,"n.清楚，明晰；透明
 ","1. Letters may be edited for length and clarity.
 信件可能要加以修改以求篇幅合适，意思明了。
 2. a lack of clarity in the law on property rights
 产权法律含糊不清
 "
-whisky,"n.威士忌酒
+whisky,We drink whisky mixed with beer.,我们喝掺有啤酒的威士忌。,"n.威士忌酒
 adj.威士忌酒的
 ","1. We drink whisky mixed with beer.
 我们喝掺有啤酒的威士忌。
@@ -538,7 +538,7 @@ adj.威士忌酒的
 3. After drinking a small cup of whisky,he began to stroke the things happened in these two days.
 喝了一小杯威士忌酒之后，他开始理了理这一两天发生的事情。
 "
-pretend,"v.假装，伪装，佯装
+pretend,Let’s pretend we’re on the moon.,我们假装自己是在月球上吧。,"v.假装，伪装，佯装
 adj.假装的
 ","1. Let’s pretend we’re on the moon.
 我们假装自己是在月球上吧。
@@ -549,7 +549,7 @@ adj.假装的
 4. I can’t marry her and to pretend otherwise would be wrong.
 我不可以娶她，装作娶她无妨是不对的。
 "
-scan,"v.扫描；浏览；细看；详细调查；标出格律
+scan,"He scanned the horizon, but there was no sign of the ship.",他朝地平线处仔细眺望，但是找不到那艘船的踪影。,"v.扫描；浏览；细看；详细调查；标出格律
 n.扫描；浏览；审视；细看
 ","1. He scanned the horizon, but there was no sign of the ship.
 他朝地平线处仔细眺望，但是找不到那艘船的踪影。
@@ -558,50 +558,50 @@ n.扫描；浏览；审视；细看
 3. Video cameras scanned the car park.
 摄像机监视着停车场。
 "
-strife,"n.冲突；争吵；不和
+strife,Money is a major cause of strife in many marriages.,钱在许多婚姻中是导致冲突的一个主要原因。,"n.冲突；争吵；不和
 ","1. Money is a major cause of strife in many marriages.
 钱在许多婚姻中是导致冲突的一个主要原因。
 "
-magnet,"n.磁铁；[电磁] 磁体；磁石
+magnet,It's possible to hang a nail from a magnet and then use that nail to pick up another nail.,把一颗钉子挂在一个磁体上再用这颗钉子去吸起另一颗钉子是可能的。,"n.磁铁；[电磁] 磁体；磁石
 ","1. It's possible to hang a nail from a magnet and then use that nail to pick up another nail.
 把一颗钉子挂在一个磁体上再用这颗钉子去吸起另一颗钉子是可能的。
 "
-graceful,"adj.优雅的；优美的
+graceful,Her movements were graceful and elegant.,她举手投足优雅而高贵。,"adj.优雅的；优美的
 ","1. Her movements were graceful and elegant.
 她举手投足优雅而高贵。
 2. The branches formed a graceful curve.
 那些树枝形成一条优美的曲线。
 "
-cashier,"n.出纳员；司库；收银员
+cashier,,,"n.出纳员；司库；收银员
 v.解雇；抛弃
 ",
-daylight,"n.白天；日光；黎明；公开
+daylight,The park is open to the public during daylight hours .,公园白天对公众开放。,"n.白天；日光；黎明；公开
 ","1. The park is open to the public during daylight hours .
 公园白天对公众开放。
 2. If possible, it’s better to work in natural daylight.
 如果条件允许的话，最好在自然日光下工作。
 "
-litre,"n.[计量] 公升（米制容量单位）
+litre,the Ford’s 2.8 litre engine,福特汽车2.8升排量的引擎,"n.[计量] 公升（米制容量单位）
 ","1. the Ford’s 2.8 litre engine
 福特汽车2.8升排量的引擎
 "
-mortal,"adj.凡人的；致死的；终有一死的；不共戴天的
+mortal,Her father’s death reminded her that she was mortal.,父亲的去世让她认识到终有一天她也会死去。,"adj.凡人的；致死的；终有一死的；不共戴天的
 n.人类，凡人
 ","1. Her father’s death reminded her that she was mortal.
 父亲的去世让她认识到终有一天她也会死去。
 "
-articulate,"v.清晰地发（音）；明确有力地表达；用关节连接；使相互连贯
+articulate,Many people are unable to articulate the unhappiness they feel.,许多人都表达不出内心的痛苦。,"v.清晰地发（音）；明确有力地表达；用关节连接；使相互连贯
 adj.发音清晰的；口才好的；有关节的
 n.【动物学】有节体的动物
 ","1. Many people are unable to articulate the unhappiness they feel.
 许多人都表达不出内心的痛苦。
 "
-stare,"v.凝视，盯着看；显眼
+stare,She sat there staring into space (= looking for a long time at nothing ) .,她坐在那里，出神地凝视前方。,"v.凝视，盯着看；显眼
 n.凝视；注视
 ","1. She sat there staring into space (= looking for a long time at nothing ) .
 她坐在那里，出神地凝视前方。
 "
-vigorous,"adj.有力的；精力充沛的
+vigorous,Your dog needs at least 20 minutes of vigorous exercise every day.,你的狗每天需要进行至少20分钟的剧烈运动。,"adj.有力的；精力充沛的
 ","1. Your dog needs at least 20 minutes of vigorous exercise every day.
 你的狗每天需要进行至少20分钟的剧烈运动。
 2. Environmentalists have begun a vigorous campaign to oppose nuclear dumping in the area.
@@ -613,7 +613,7 @@ vigorous,"adj.有力的；精力充沛的
 5. The measures provoked vigorous opposition in right-wing circles.
 这些举措激起了右翼群体的强烈反对。
 "
-sacrifice,"n.牺牲；祭品；供奉
+sacrifice,The minister stressed the need for economic sacrifice.,部长强调了在经济上作出牺牲的必要性。,"n.牺牲；祭品；供奉
 v.牺牲；献祭；亏本出售
 ","1. The minister stressed the need for economic sacrifice.
 部长强调了在经济上作出牺牲的必要性。
@@ -622,7 +622,7 @@ v.牺牲；献祭；亏本出售
 3. She brought three children up single-handedly, often at great personal sacrifice .
 她独自一人把三个孩子带大，常常需要作出巨大的个人牺牲。
 "
-milk,"n.牛奶；乳状物
+milk,a bottle of milk,一瓶奶,"n.牛奶；乳状物
 v.榨取；挤…的奶
 ","1. a bottle of milk
 一瓶奶
@@ -631,46 +631,46 @@ v.榨取；挤…的奶
 3. a pint of semi-skimmed milk
 一品脱半脱脂奶
 "
-mild,"adj.温和的；轻微的；淡味的；文雅的；不含有害物质的的
+mild,We had an exceptionally mild winter last year.,去年冬天我们这里异常暖和。,"adj.温和的；轻微的；淡味的；文雅的；不含有害物质的的
 n.（英国的一种）淡味麦芽啤酒
 ","1. We had an exceptionally mild winter last year.
 去年冬天我们这里异常暖和。
 2. a mild climate
 温和的气候
 "
-continuous,"adj.连续的，持续的；继续的；连绵不断的
+continuous,continuous economic growth,持续的经济增长,"adj.连续的，持续的；继续的；连绵不断的
 ","1. continuous economic growth
 持续的经济增长
 2. a continuous flow of information
 源源不断的信息
 "
-overseas,"adv.在海外，海外
+overseas,Chris is going to work overseas.,克里斯要去国外工作。,"adv.在海外，海外
 adj.海外的，国外的
 ","1. Chris is going to work overseas.
 克里斯要去国外工作。
 2. Most applications came from overseas.
 大部分申请来自海外。
 "
-stride,"n.大步；步幅；进展
+stride,Paco reached the door in only three strides.,帕科三大步就走到了门口。,"n.大步；步幅；进展
 v.跨过；大踏步走过；跨坐在…
 ","1. Paco reached the door in only three strides.
 帕科三大步就走到了门口。
 2. They were joined by a newcomer who came striding across a field.
 他们中又来了个新人，那人穿过一块田地大步走过来。
 "
-probable,"adj.很可能的；可信的
+probable,The probable cause of the fire was faulty wiring.,起火的原因很可能是电路故障。,"adj.很可能的；可信的
 n.很可能的事；大有希望的候选者
 ","1. The probable cause of the fire was faulty wiring.
 起火的原因很可能是电路故障。
 2. Success is highly probable .
 成功的希望相当大。
 "
-jungle,"n.丛林，密林；危险地带
+jungle,the Amazon jungle,亚马孙丛林,"n.丛林，密林；危险地带
 adj.丛林的；蛮荒的
 ","1. the Amazon jungle
 亚马孙丛林
 "
-conclusion,"n.结论；结局；推论
+conclusion,These are the report’s main conclusions.,这些就是这篇报告的主要结论。,"n.结论；结局；推论
 ","1. These are the report’s main conclusions.
 这些就是这篇报告的主要结论。
 2. It is still too early to reach a conclusion on this point.
@@ -684,32 +684,32 @@ conclusion,"n.结论；结局；推论
 6. The police came to the inescapable conclusion that the children had been murdered.
 警方得出了无法回避的结论: 这些儿童被谋杀了。
 "
-propaganda,"n.宣传；传道总会
+propaganda,the spreading of political propaganda,政治宣传的开展,"n.宣传；传道总会
 ","1. the spreading of political propaganda
 政治宣传的开展
 2. the government propaganda machine
 政府的宣传机器
 "
-valley,"n.山谷；流域；溪谷
+valley,the San Fernando Valley,圣费尔南多山谷,"n.山谷；流域；溪谷
 ","1. the San Fernando Valley
 圣费尔南多山谷
 "
-foolish,"adj.愚蠢的；傻的
+foolish,I’ve never heard anything so foolish in all my life.,我这辈子从没听到过这么愚蠢的话。,"adj.愚蠢的；傻的
 ","1. I’ve never heard anything so foolish in all my life.
 我这辈子从没听到过这么愚蠢的话。
 2. It would be foolish to ignore his advice.
 不听他的劝告才傻呢。
 "
-delegate,"v.委派…为代表
+delegate,Officials have now been delegated to start work on a draft settlement.,官员们现已被委派开始准备一份拟定协议。,"v.委派…为代表
 n.代表
 ","1. Officials have now been delegated to start work on a draft settlement.
 官员们现已被委派开始准备一份拟定协议。
 "
-irrigate,"v.灌溉；冲洗；使清新
+irrigate,The water in Lake Powell is used to irrigate the area.,包尔湖的水被用来灌溉该地区。,"v.灌溉；冲洗；使清新
 ","1. The water in Lake Powell is used to irrigate the area.
 包尔湖的水被用来灌溉该地区。
 "
-blanket,"n.毛毯，毯子；毯状物，覆盖层
+blanket,The mud disappeared under a blanket of snow.,泥地在一层白雪的覆盖下消失不见了。,"n.毛毯，毯子；毯状物，覆盖层
 adj.总括的，全体的；没有限制的
 v.覆盖，掩盖；用毯覆盖
 ","1. The mud disappeared under a blanket of snow.
@@ -717,26 +717,26 @@ v.覆盖，掩盖；用毯覆盖
 2. There's already a blanket ban on foreign unskilled labour in Japan.
 日本已经有一项禁止使用外国非熟练工人的通用禁令。
 "
-genuine,"adj.真实的，真正的；诚恳的
+genuine,‘Did he really?’ Her surprise seemed genuine.,“他真的这样？”她好像是真的惊讶。,"adj.真实的，真正的；诚恳的
 ","1. ‘Did he really?’ Her surprise seemed genuine.
 “他真的这样？”她好像是真的惊讶。
 "
-district,"n.区域；地方；行政区
+district,a postal district,邮政区,"n.区域；地方；行政区
 ","1. a postal district
 邮政区
 "
-assassinate,"v.暗杀；行刺
+assassinate,a plot to assassinate the President,刺杀总统的阴谋,"v.暗杀；行刺
 ","1. a plot to assassinate the President
 刺杀总统的阴谋
 "
-mutter,"v.咕哝；喃喃自语
+mutter,Elsie muttered something I couldn’t catch and walked off.,埃尔茜咕哝了一句什么，我也没有听懂，她就走掉了。,"v.咕哝；喃喃自语
 n.咕哝；喃喃低语
 ","1. Elsie muttered something I couldn’t catch and walked off.
 埃尔茜咕哝了一句什么，我也没有听懂，她就走掉了。
 2. ‘He’s such an unpleasant man,’ Alyssia muttered under her breath .
 “他真是个讨厌的人。”阿莉西娅轻声嘟囔着。
 "
-fortnight,"n.两星期
+fortnight,a fortnight’s holiday,十四天的假期,"n.两星期
 ","1. a fortnight’s holiday
 十四天的假期
 2. in a fortnight’s time
@@ -744,12 +744,12 @@ fortnight,"n.两星期
 3. a fortnight ago
 两周前
 "
-tackle,"n.滑车；装备；用具；扭倒
+tackle,...fishing tackle.,…渔具。,"n.滑车；装备；用具；扭倒
 v.处理；抓住；固定；与…交涉
 ","1. ...fishing tackle.
 …渔具。
 "
-blush,"v.脸红；感到惭愧
+blush,Wilson saw she was watching him and blushed.,威尔逊看到她在注视着自己，不由得脸红了。,"v.脸红；感到惭愧
 n.脸红；红色；羞愧
 ","1. Wilson saw she was watching him and blushed.
 威尔逊看到她在注视着自己，不由得脸红了。
@@ -758,20 +758,20 @@ n.脸红；红色；羞愧
 3. Kate blushed scarlet.
 凯特满脸绯红。
 "
-missionary,"adj.传教的；传教士的
+missionary,missionary work,传教工作,"adj.传教的；传教士的
 n.传教士
 ","1. missionary work
 传教工作
 2. a missionary hospital
 教会医院
 "
-bloody,"adj.血腥的；非常的；嗜杀的，残忍的；血色的
+bloody,It serves you bloody well right.,你实在是活该。,"adj.血腥的；非常的；嗜杀的，残忍的；血色的
 v.使流血
 adv.很
 ","1. It serves you bloody well right.
 你实在是活该。
 "
-ego,"n.自我；自负；自我意识
+ego,That promotion really boosted her ego (= made her feel better about herself ).,那次晋升确实增强了她的自信心。,"n.自我；自负；自我意识
 ","1. That promotion really boosted her ego (= made her feel better about herself ).
 那次晋升确实增强了她的自信心。
 2. I need someone to massage my bruised ego (= when you feel less confident than before ).
@@ -779,25 +779,25 @@ ego,"n.自我；自负；自我意识
 3. a fragile ego
 脆弱的自尊心
 "
-indicative,"adj.象征的；指示的；表示…的
+indicative,His action is indicative of growing concern about the shortage of skilled labour.,他的行为显示对于熟练工人短缺现象的日益关注。,"adj.象征的；指示的；表示…的
 n.陈述语气；陈述语气的动词形式
 ","1. His action is indicative of growing concern about the shortage of skilled labour.
 他的行为显示对于熟练工人短缺现象的日益关注。
 "
-courage,"n.勇气；胆量
+courage,Sue showed great courage throughout her illness.,休在生病期间表现出了极大的勇气。,"n.勇气；胆量
 ","1. Sue showed great courage throughout her illness.
 休在生病期间表现出了极大的勇气。
 2. Driving again after his accident must have taken a lot of courage (= needed courage ) .
 他出事故后再驾车肯定需要很大的勇气。
 "
-beach,"n.海滩；湖滨
+beach,a sandy beach,沙滩,"n.海滩；湖滨
 v.将…拖上岸
 ","1. a sandy beach
 沙滩
 2. surfers on the beach
 沙滩上的冲浪者
 "
-egg,"n.蛋；卵子；家伙；鸡蛋
+egg,Blackbirds lay their eggs in March.,乌鸫在3月产蛋。,"n.蛋；卵子；家伙；鸡蛋
 v.煽动；怂恿
 ","1. Blackbirds lay their eggs in March.
 乌鸫在3月产蛋。
@@ -806,20 +806,20 @@ v.煽动；怂恿
 3. The eggs hatch (= break open to allow the baby out ) in 26 days.
 这些蛋要26天才能孵化。
 "
-skin,"n.皮肤；外皮
+skin,She had thick black hair and smooth dark skin.,她一头浓密的黑发，皮肤黝黑光滑。,"n.皮肤；外皮
 v.剥皮
 ","1. She had thick black hair and smooth dark skin.
 她一头浓密的黑发，皮肤黝黑光滑。
 2. The skin on his hands was dry and rough.
 他手上的皮肤干燥粗糙。
 "
-skim,"v.略读；撇去…的浮物；从…表面飞掠而过；去除；（为逃税而）隐瞒（部分收入）
+skim,Julie skimmed the sports page.,朱莉浏览了体育版。,"v.略读；撇去…的浮物；从…表面飞掠而过；去除；（为逃税而）隐瞒（部分收入）
 n.撇；撇去的东西；表层物；瞒报所得的收入
 adj.脱脂的；撇去浮沫的；表层的
 ","1. Julie skimmed the sports page.
 朱莉浏览了体育版。
 "
-semiconductor,"n.[电子][物] 半导体
+semiconductor,In semiconductor receivers transistors take the place of vacuum tubes.,在半导体收音机中晶体管代替了真空管。,"n.[电子][物] 半导体
 ","1. In semiconductor receivers transistors take the place of vacuum tubes.
 在半导体收音机中晶体管代替了真空管。
 2. What was happening was this: in its pure state of repeating units of one titanium and two oxygen atoms, titanium dioxide is a semiconductor.
@@ -827,14 +827,14 @@ semiconductor,"n.[电子][物] 半导体
 3. They can then be printed onto a roll of metal foil that becomes a continuous semiconductor.
 然后他们可以把这种墨水印刷在一卷金属箔上，从而制成连续的半导体。
 "
-commute,"v.（搭乘车、船等）通勤；代偿
+commute,Baldry’s 20-year prison sentence was commuted to three years.,鲍德里二十年的刑期被减至三年。,"v.（搭乘车、船等）通勤；代偿
 n.通勤（口语）
 ","1. Baldry’s 20-year prison sentence was commuted to three years.
 鲍德里二十年的刑期被减至三年。
 2. The average Los Angeles commute is over 60 miles a day.
 洛杉矶平均通勤路程每天超过60英里。
 "
-splendid,"adj.辉煌的；灿烂的；极好的；杰出的
+splendid,a splendid idea,很妙的主意,"adj.辉煌的；灿烂的；极好的；杰出的
 ","1. a splendid idea
 很妙的主意
 2. a splendid opportunity
@@ -842,22 +842,22 @@ splendid,"adj.辉煌的；灿烂的；极好的；杰出的
 3. The staff are doing a splendid job.
 员工们干得非常棒。
 "
-contradiction,"n.矛盾；否认；反驳
+contradiction,apparent contradictions in the defendant’s testimony,被告证词中的明显矛盾,"n.矛盾；否认；反驳
 ","1. apparent contradictions in the defendant’s testimony
 被告证词中的明显矛盾
 "
-temptation,"n.引诱；诱惑物
+temptation,Resist the temptation to buy the item until you’re certain you need it.,要抵挡住购买的诱惑，除非你确有需要。,"n.引诱；诱惑物
 ","1. Resist the temptation to buy the item until you’re certain you need it.
 要抵挡住购买的诱惑，除非你确有需要。
 2. I finally gave in to the temptation and had a cigarette.
 我最终还是屈从诱惑，抽了一支烟。
 "
-coward,"n.懦夫，懦弱的人
+coward,Try it. Don’t be such a coward.,试一下，别那么胆小。,"n.懦夫，懦弱的人
 adj.胆小的，懦怯的
 ","1. Try it. Don’t be such a coward.
 试一下，别那么胆小。
 "
-yell,"v.大叫，叫喊
+yell,‘Help me!’ she yelled hysterically.,“救救我！”她歇斯底里地大叫。,"v.大叫，叫喊
 n.喊声，叫声
 ","1. ‘Help me!’ she yelled hysterically.
 “救救我！”她歇斯底里地大叫。
@@ -868,52 +868,52 @@ n.喊声，叫声
 4. He could hear Pete yelling at the top of his voice (= very loudly ).
 他听到皮特声嘶力竭地在喊叫。
 "
-fountain,"n.喷泉，泉水；源泉
+fountain,He was a fountain of information on Asian affairs.,他是亚洲事务的信息源。,"n.喷泉，泉水；源泉
 ","1. He was a fountain of information on Asian affairs.
 他是亚洲事务的信息源。
 "
-obstruction,"n.障碍；阻碍；妨碍
+obstruction,John was irritated by drivers parking near his house and causing an obstruction.,约翰被众司机在他房子附近停车而造成阻塞所激怒。,"n.障碍；阻碍；妨碍
 ","1. John was irritated by drivers parking near his house and causing an obstruction.
 约翰被众司机在他房子附近停车而造成阻塞所激怒。
 "
-redundant,"adj.多余的，过剩的；被解雇的，失业的；冗长的，累赘的
+redundant,Seventy factory workers were made redundant in the resulting cuts.,在继而发生的裁员中，70名工厂工人被解雇。,"adj.多余的，过剩的；被解雇的，失业的；冗长的，累赘的
 ","1. Seventy factory workers were made redundant in the resulting cuts.
 在继而发生的裁员中，70名工厂工人被解雇。
 "
-veil,"n.面纱；面罩；遮蔽物；托词
+veil,She lifted her veil with both hands.,她用双手揭开面纱。,"n.面纱；面罩；遮蔽物；托词
 v.遮蔽；掩饰；以面纱遮掩；用帷幕分隔
 ","1. She lifted her veil with both hands.
 她用双手揭开面纱。
 2. a bridal veil
 新娘的面纱
 "
-skeleton,"n.骨架，骨骼；纲要；骨瘦如柴的人
+skeleton,We agreed on a skeleton outline of the proposal.,我们给提案商定了一个基本框架。,"n.骨架，骨骼；纲要；骨瘦如柴的人
 adj.骨骼的；骨瘦如柴的；概略的
 ","1. We agreed on a skeleton outline of the proposal.
 我们给提案商定了一个基本框架。
 "
-quench,"v.熄灭，[机] 淬火；解渴；结束；冷浸
+quench,We stopped at a small bar to quench our thirst.,我们在一家小酒吧停下来喝点东西解渴。,"v.熄灭，[机] 淬火；解渴；结束；冷浸
 ","1. We stopped at a small bar to quench our thirst.
 我们在一家小酒吧停下来喝点东西解渴。
 "
-vein,"n.血管；叶脉；[地质] 岩脉；纹理；翅脉；性情
+vein,the pulmonary vein,肺静脉,"n.血管；叶脉；[地质] 岩脉；纹理；翅脉；性情
 v.使成脉络；象脉络般分布于
 ","1. the pulmonary vein
 肺静脉
 2. She felt the blood racing through her veins as they kissed.
 他们接吻时她觉得热血沸腾。
 "
-quota,"n.配额；定额；限额
+quota,The government has decided to scrap quotas on car imports.,政府决定取消汽车进口配额。,"n.配额；定额；限额
 ","1. The government has decided to scrap quotas on car imports.
 政府决定取消汽车进口配额。
 2. There are plans to introduce strict immigration quotas.
 有计划要推行严格的移民限额制度。
 "
-intelligible,"adj.可理解的；明了的；仅能用智力了解的
+intelligible,The language of Darwin was intelligible to experts and non-experts alike.,达尔文的语言对专家和平常人来说都容易理解。,"adj.可理解的；明了的；仅能用智力了解的
 ","1. The language of Darwin was intelligible to experts and non-experts alike.
 达尔文的语言对专家和平常人来说都容易理解。
 "
-blow,"n.吹；打击；殴打
+blow,"Joe resigned, which was a severe blow because we needed him desperately.",乔辞职了，这是一个巨大的打击，因为我们非常需要他。,"n.吹；打击；殴打
 v.风吹；喘气
 ","1. Joe resigned, which was a severe blow because we needed him desperately.
 乔辞职了，这是一个巨大的打击，因为我们非常需要他。
@@ -926,18 +926,18 @@ v.风吹；喘气
 5. The final blow for many firms was the government’s abolition of import duties.
 对于许多公司来说，政府取消进口税是最后致命的一击。
 "
-flatter,"v.奉承；谄媚；使高兴
+flatter,Perry would always flatter Mrs. Mitchell by praising her cooking.,佩里常常奉承米切尔太太，称赞她的烹调手艺。,"v.奉承；谄媚；使高兴
 ","1. Perry would always flatter Mrs. Mitchell by praising her cooking.
 佩里常常奉承米切尔太太，称赞她的烹调手艺。
 "
-decimal,"adj.小数的；十进位的
+decimal,changing to a decimal system,改为十进制,"adj.小数的；十进位的
 n.小数
 ","1. changing to a decimal system
 改为十进制
 2. calculations accurate to three decimal places
 精确到小数点后三位的计算
 "
-diagnose,"v.诊断；断定
+diagnose,How did they diagnose you?,他们怎么给你的诊断的？,"v.诊断；断定
 ","1. How did they diagnose you?
 他们怎么给你的诊断的？
 2. What tools do you need to help you diagnose the problem, and where do you get them?
@@ -945,7 +945,7 @@ diagnose,"v.诊断；断定
 3. Evidently this springs from some defect in their nature, but it is one not altogether easy either to diagnose of to cure.
 这种情形显然源于他们本性上的某种缺陷，但是这种缺陷既不容易诊断也不容易治疗。
 "
-vinegar,"n.醋
+vinegar,The  sugared  vinegar is  refined from the sugarcane and  pine.,加糖的醋是从甘蔗和松木中精炼出来的.,"n.醋
 ","1. The  sugared  vinegar is  refined from the sugarcane and  pine.
 加糖的醋是从甘蔗和松木中精炼出来的.
 2. To make the red-wine vinaigrette, whisk together the oil, vinegar and mustard in a medium bowl until well combined.
@@ -953,31 +953,31 @@ vinegar,"n.醋
 3. In cooking, vinegar can be used alone or to add flavor without calories to our food, but what will it do if we use it on our hair?
 在烹饪中，醋可以单独食用，也可以用作食物调味料不附加任何卡路里，但如果我们把它涂抹到头发上呢？
 "
-infect,"v.感染，传染
+infect,"People with the virus may feel perfectly well, but they can still infect others.",带有这种病毒的人可能毫无症状，却仍可能传染他人。,"v.感染，传染
 ","1. People with the virus may feel perfectly well, but they can still infect others.
 带有这种病毒的人可能毫无症状，却仍可能传染他人。
 "
-costume,"n.服装，装束；戏装，剧装
+costume,the film’s lavish costumes and spectacular sets,影片中奢华的戏装和壮观的场景,"n.服装，装束；戏装，剧装
 v.给…穿上服装
 ","1. the film’s lavish costumes and spectacular sets
 影片中奢华的戏装和壮观的场景
 2. Hallowe’en costumes
 万圣节前夕化装服
 "
-thief,"n.小偷，贼
+thief,"Thieves broke into the offices and stole $150,000’s worth of computer equipment.",小偷破门进入办公室，偷走了价值15万美元的电脑设备。,"n.小偷，贼
 ","1. Thieves broke into the offices and stole $150,000’s worth of computer equipment.
 小偷破门进入办公室，偷走了价值15万美元的电脑设备。
 2. They were nothing but petty thieves (= thieves who steal small things ) .
 他们只不过是小毛贼。
 "
-turkey,"n.火鸡；笨蛋；失败之作
+turkey,roast turkey,烤火鸡,"n.火鸡；笨蛋；失败之作
 ","1. roast turkey
 烤火鸡
 "
-maneuver,"n.[军] 机动；演习；策略；调遣
+maneuver,,,"n.[军] 机动；演习；策略；调遣
 v.[军] 机动；演习；调遣；用计谋
 ",
-mist,"n.薄雾；视线模糊不清；模糊不清之物
+mist,We could just see the outline of the house through the mist.,薄雾中我们只能看到房子的轮廓。,"n.薄雾；视线模糊不清；模糊不清之物
 v.下雾；变模糊
 ","1. We could just see the outline of the house through the mist.
 薄雾中我们只能看到房子的轮廓。
@@ -990,78 +990,78 @@ v.下雾；变模糊
 5. The mists rolled in off the sea (= came on to the land from the sea ) .
 雾气从海上涌来。
 "
-arch,"n.弓形，拱形；拱门
+arch,"When she passed under the arch leading out of the park, Mira whooped with delight.",从通向公园外的拱门下走过时，米拉高兴地喊叫起来。,"n.弓形，拱形；拱门
 adj.主要的
 v.使…弯成弓形；用拱连接
 ","1. When she passed under the arch leading out of the park, Mira whooped with delight.
 从通向公园外的拱门下走过时，米拉高兴地喊叫起来。
 "
-shipment,"n.装货；装载的货物
+shipment,The goods are ready for shipment.,货物已经准备好装运。,"n.装货；装载的货物
 ","1. The goods are ready for shipment.
 货物已经准备好装运。
 "
-bleak,"adj.阴冷的；荒凉的，无遮蔽的；黯淡的，无希望的；冷酷的；单调的
+bleak,a bleak January afternoon,一月里一个阴冷的下午,"adj.阴冷的；荒凉的，无遮蔽的；黯淡的，无希望的；冷酷的；单调的
 ","1. a bleak January afternoon
 一月里一个阴冷的下午
 2. The landscape was bleak.
 景色一片凄凉。
 "
-oven,"n.炉，灶；烤炉，烤箱
+oven,Preheat the oven to 200 degrees C.,把烤箱预热至200摄氏度。,"n.炉，灶；烤炉，烤箱
 ","1. Preheat the oven to 200 degrees C.
 把烤箱预热至200摄氏度。
 2. Press the mixture onto the bread and bake in a hot oven for ten minutes.
 把混合料抹在面包上，然后在烤箱内高温烘烤10分钟。
 "
-hypocrisy,"n.虚伪；伪善
+hypocrisy,"It would be sheer hypocrisy to pray for success, since I’ve never believed in God.",我从不相信上帝，因此为获成功而祈祷是纯粹的虚伪之举。,"n.虚伪；伪善
 ","1. It would be sheer hypocrisy to pray for success, since I’ve never believed in God.
 我从不相信上帝，因此为获成功而祈祷是纯粹的虚伪之举。
 "
-discharge,"v.解雇；卸下；放出；免除
+discharge,Hospitals now tend to discharge patients earlier than in the past.,与过去相比，现在医院更趋向于让病人早些出院。,"v.解雇；卸下；放出；免除
 n.排放；卸货；解雇
 ","1. Hospitals now tend to discharge patients earlier than in the past.
 与过去相比，现在医院更趋向于让病人早些出院。
 "
-trifle,"n.琐事；蛋糕；少量
+trifle,There’s no point in arguing over trifles.,为琐事争吵毫无意义。,"n.琐事；蛋糕；少量
 v.开玩笑；闲混；嘲弄
 ","1. There’s no point in arguing over trifles.
 为琐事争吵毫无意义。
 "
-circumference,"n.圆周；周长；胸围
+circumference,...a scientist calculating the Earth's circumference.,…一位正在计算地球周长的科学家。,"n.圆周；周长；胸围
 ","1. ...a scientist calculating the Earth's circumference.
 …一位正在计算地球周长的科学家。
 "
-clone,"n.克隆；无性系；无性繁殖；靠营养生殖而由母体分离繁殖的植物
+clone,,,"n.克隆；无性系；无性繁殖；靠营养生殖而由母体分离繁殖的植物
 v.无性繁殖，复制
 ",
-graze,"v.放牧；擦伤
+graze,"I fell on the gravel, severely grazing my knee.",我摔倒在砾石路上，膝盖擦伤得很严重。,"v.放牧；擦伤
 n.放牧；轻擦
 ","1. I fell on the gravel, severely grazing my knee.
 我摔倒在砾石路上，膝盖擦伤得很严重。
 "
-basement,"n.地下室；地窖
+basement,They bought an old schoolhouse to live in and built a workshop in the basement.,他们买了座旧校舍居住，还在地下室建了个作坊。,"n.地下室；地窖
 ","1. They bought an old schoolhouse to live in and built a workshop in the basement.
 他们买了座旧校舍居住，还在地下室建了个作坊。
 "
-comparable,"adj.可比较的；比得上的
+comparable,A car of comparable size would cost far more abroad.,同样大小的汽车在国外要贵得多。,"adj.可比较的；比得上的
 ","1. A car of comparable size would cost far more abroad.
 同样大小的汽车在国外要贵得多。
 "
-february,"n.二月
+february,He joined the Army in February 1943.,他1943年2月参军。,"n.二月
 ","1. He joined the Army in February 1943.
 他1943年2月参军。
 2. His exhibition opens on February 5.
 他的展览2月5日开幕。
 "
-voltage,"n.[电] 电压
+voltage,The systems are getting smaller and using lower voltages.,这些系统正变得更小而且使用更低的电压。,"n.[电] 电压
 ","1. The systems are getting smaller and using lower voltages.
 这些系统正变得更小而且使用更低的电压。
 "
-instrumental,"adj.乐器的；有帮助的；仪器的，器械的
+instrumental,...a CD of vocal and instrumental music.,…一张声乐和器乐光盘。,"adj.乐器的；有帮助的；仪器的，器械的
 n.器乐曲；工具字，工具格
 ","1. ...a CD of vocal and instrumental music.
 …一张声乐和器乐光盘。
 "
-fist,"n.拳，拳头；〈口〉笔迹；掌握；[印]指标参见号
+fist,She held the money tightly in her fist.,她把钱紧紧地攥在手中。,"n.拳，拳头；〈口〉笔迹；掌握；[印]指标参见号
 vt.紧握；握成拳；用拳打
 ","1. She held the money tightly in her fist.
 她把钱紧紧地攥在手中。
@@ -1072,22 +1072,22 @@ vt.紧握；握成拳；用拳打
 4. Varney slammed his fist down onto the table so hard the dishes jumped.
 瓦尼一拳砸在桌子上，盘子都给震了起来。
 "
-carrot,"n.胡萝卜
+carrot,grated carrots,磨碎的胡萝卜,"n.胡萝卜
 ","1. grated carrots
 磨碎的胡萝卜
 2. carrot juice
 胡萝卜汁
 "
-screw,"v.旋，拧；压榨；强迫
+screw,"""Yes, I know that,"" Kelly said, screwing the silencer onto the pistol.",“是的，我知道那事。”凯利一边把消音器拧到手枪上一边说道。,"v.旋，拧；压榨；强迫
 n.螺旋；螺丝钉；吝啬鬼
 ","1. ""Yes, I know that,"" Kelly said, screwing the silencer onto the pistol.
 “是的，我知道那事。”凯利一边把消音器拧到手枪上一边说道。
 "
-thigh,"n.大腿，股
+thigh,chicken thighs,鸡腿,"n.大腿，股
 ","1. chicken thighs
 鸡腿
 "
-horrible,"adj.可怕的；极讨厌的
+horrible,The weather has been really horrible all week.,整个星期天气都很糟。,"adj.可怕的；极讨厌的
 ","1. The weather has been really horrible all week.
 整个星期天气都很糟。
 2. a horrible smell
@@ -1095,7 +1095,7 @@ horrible,"adj.可怕的；极讨厌的
 3. The food looked horrible, but it tasted OK.
 那食物看上去很糟，可吃起来还不错。
 "
-oil,"n.油；石油；油画颜料
+oil,a rise in the price of oil,石油价格的上涨,"n.油；石油；油画颜料
 v.加油；涂油；使融化
 ","1. a rise in the price of oil
 石油价格的上涨
@@ -1104,19 +1104,19 @@ v.加油；涂油；使融化
 3. an oil refinery
 炼油厂
 "
-missile,"n.导弹；投射物
+missile,a nuclear missile,核导弹,"n.导弹；投射物
 adj.导弹的；可投掷的；用以发射导弹的
 ","1. a nuclear missile
 核导弹
 2. a missile attack
 导弹袭击
 "
-refund,"v.退还；偿还，归还
+refund,"I took the radio back, and they refunded my money .",我把收音机送回去，他们给我退了款。,"v.退还；偿还，归还
 n.退款；偿还，偿还额
 ","1. I took the radio back, and they refunded my money .
 我把收音机送回去，他们给我退了款。
 "
-wet,"adj.[气象][物] 潮湿的；有雨的
+wet,I’ve washed your shirt but it’s still wet.,我把你的衬衫洗过了，不过现在还是湿的。,"adj.[气象][物] 潮湿的；有雨的
 n.雨天；湿气
 v.弄湿
 ","1. I’ve washed your shirt but it’s still wet.
@@ -1126,35 +1126,35 @@ v.弄湿
 3. The man in the boat was wet through (= completely wet ).
 船上的那人浑身湿透。
 "
-sane,"adj.健全的；理智的；[临床] 神志正常的
+sane,He seems perfectly sane (= completely sane ) to me.,在我看来他神志完全正常。,"adj.健全的；理智的；[临床] 神志正常的
 n.(Sane)人名；(日)实(姓)；(日)实(名)；(芬、塞、冈、几比、塞内)萨内
 ","1. He seems perfectly sane (= completely sane ) to me.
 在我看来他神志完全正常。
 2. No sane person would want to kill a baby.
 神志正常的人不会去杀一个婴儿。
 "
-sand,"n.沙；沙地；沙洲；沙滩；沙子
+sand,a mixture of sand and cement,沙和水泥的混合物,"n.沙；沙地；沙洲；沙滩；沙子
 v.撒沙于；以沙掩盖；用砂纸等擦平或磨光某物；使撒沙似地布满；给…掺沙子
 ","1. a mixture of sand and cement
 沙和水泥的混合物
 2. I have sand in my shoe.
 我的鞋里有沙子。
 "
-stair,"n.楼梯，阶梯；梯级
+stair,We walked up four flights of stairs (= sets of stairs ) .,我们往上走了四段楼梯。,"n.楼梯，阶梯；梯级
 ","1. We walked up four flights of stairs (= sets of stairs ) .
 我们往上走了四段楼梯。
 "
-vapour,"n.蒸气（等于vapor）；水蒸气
+vapour,water vapour,水蒸气,"n.蒸气（等于vapor）；水蒸气
 ","1. water vapour
 水蒸气
 "
-unify,"v.统一；使相同，使一致
+unify,Strong support for the war has unified the nation.,对战争的坚决支持使这个国家团结了起来。,"v.统一；使相同，使一致
 ","1. Strong support for the war has unified the nation.
 对战争的坚决支持使这个国家团结了起来。
 2. His music unifies traditional and modern themes.
 他的音乐结合了传统和现代的主题。
 "
-inland,"n.内地；内陆
+inland,"The next day, we drove inland.",第二天，我们乘车开往内陆。,"n.内地；内陆
 adj.内陆的；内地的；国内的
 adv.在内地；向内地；向内陆；在内陆
 ","1. The next day, we drove inland.
@@ -1164,7 +1164,7 @@ adv.在内地；向内地；向内陆；在内陆
 3. In 1985 a glacier buried this shore; since then the ice has retreated a half mile inland.
 1985年，一座冰川在海滨融化，自那时起冰川已经向内陆退缩了半英里。
 "
-hydrogen,"n.[化学] 氢
+hydrogen,Water contains hydrogen and oxygen.,水含有氢和氧。,"n.[化学] 氢
 ","1. Water contains hydrogen and oxygen.
 水含有氢和氧。
 2. Water can be reduced to oxygen and hydrogen by electrolysis.
@@ -1172,32 +1172,32 @@ hydrogen,"n.[化学] 氢
 3. The first bubbles to escape from the liquid are a mixture of air and hydrogen.
 从该液体中最先逸出的气泡是空气和氢的混合物。
 "
-clever,"adj.聪明的；机灵的；熟练的
+clever,a clever man,聪明的人,"adj.聪明的；机灵的；熟练的
 ","1. a clever man
 聪明的人
 "
-breed,"v.繁殖；饲养；产生
+breed,Eagles breed during the cooler months of the year.,鹰在一年中较凉爽的季节交配繁殖。,"v.繁殖；饲养；产生
 n.[生物] 品种；种类，类型
 ","1. Eagles breed during the cooler months of the year.
 鹰在一年中较凉爽的季节交配繁殖。
 "
-invariably,"adv.总是；不变地；一定地
+invariably,It invariably rains when I go there.,我每次去那儿都下雨。,"adv.总是；不变地；一定地
 ","1. It invariably rains when I go there.
 我每次去那儿都下雨。
 2. The security guards were invariably ex-servicemen.
 保安人员毫无例外地都是退伍军人。
 "
-lecture,"n.演讲；讲稿；教训
+lecture,...a series of lectures by Professor Eric Robinson.,…埃里克·鲁滨逊教授的系列讲座。,"n.演讲；讲稿；教训
 v.演讲；训诫
 ","1. ...a series of lectures by Professor Eric Robinson.
 …埃里克·鲁滨逊教授的系列讲座。
 "
-stall,"n.货摊；畜栏；托辞
+stall,a market stall,市场摊位,"n.货摊；畜栏；托辞
 v.停止，停转；拖延
 ","1. a market stall
 市场摊位
 "
-snowstorm,"n.暴风雪；雪暴
+snowstorm,The snowstorm added to our difficulties.,暴风雪增加了我们的困难。,"n.暴风雪；雪暴
 ","1. The snowstorm added to our difficulties.
 暴风雪增加了我们的困难。
 2. From beneath, it was at times like gazing into a snowstorm. It was hard not to think of souls.
@@ -1205,7 +1205,7 @@ snowstorm,"n.暴风雪；雪暴
 3. I step outside the house and nothing can stop me—the late season snowstorm, the puddle of standing water at the bottom of my porch steps that will never evaporate, the mud and muck this season brings.
 我踏出家门，没有任何事情能阻挡我——深冬季节的暴风雪、我家门廊台阶上那永远挥散不去的雨水坑，还有这个季节带来的烂泥和污秽。
 "
-boundary,"n.边界；范围；分界线
+boundary,National boundaries are becoming increasingly meaningless in the global economy.,在全球经济中，国界已经变得越来越没有意义。,"n.边界；范围；分界线
 ","1. National boundaries are becoming increasingly meaningless in the global economy.
 在全球经济中，国界已经变得越来越没有意义。
 2. We would need their agreement to build outside the city boundary .
@@ -1221,19 +1221,19 @@ boundary,"n.边界；范围；分界线
 7. boundary disputes between neighbouring countries
 邻国之间的边界争端
 "
-negro,"n.黑人
+negro,"Slavery was “an unqualified evil to the negro, the white man, and the State,” said Abraham Lincoln in the 1850s.",奴隶制，“对于黑人、白人与合众国来说都是一种彻底的邪恶，”1850年林肯如此说道。,"n.黑人
 adj.黑人的
 ","1. Slavery was “an unqualified evil to the negro, the white man, and the State,” said Abraham Lincoln in the 1850s.
 奴隶制，“对于黑人、白人与合众国来说都是一种彻底的邪恶，”1850年林肯如此说道。
 "
-pause,"n.暂停；间歇
+pause,There was a pause while Alice changed the tape.,艾丽斯换磁带的时候出现了短暂的停顿。,"n.暂停；间歇
 v.暂停，停顿，中止；踌躇
 ","1. There was a pause while Alice changed the tape.
 艾丽斯换磁带的时候出现了短暂的停顿。
 2. After a long pause , she went on.
 停了好一会儿，她才继续下去。
 "
-poll,"n.投票；民意测验；投票数；投票所
+poll,A recent poll found that 80% of Californians support the governor.,最近的一项民意调查发现80%的加利福尼亚人支持州长。,"n.投票；民意测验；投票数；投票所
 v.投票；剪短；对…进行民意测验；获得选票
 adj.无角的；剪过毛的；修过枝的
 ","1. A recent poll found that 80% of Californians support the governor.
@@ -1245,43 +1245,43 @@ adj.无角的；剪过毛的；修过枝的
 4. The latest public opinion poll showed that 25% of us consider ourselves superstitious.
 最新的民意调查显示我们中有25%的人认为自己迷信。
 "
-pole,"n.杆；极点；电极
+pole,a telephone pole,电话线杆,"n.杆；极点；电极
 v.用竿支撑
 ","1. a telephone pole
 电话线杆
 "
-troublesome,"adj.麻烦的；讨厌的；使人苦恼的
+troublesome,a troublesome child,烦人的孩子,"adj.麻烦的；讨厌的；使人苦恼的
 ","1. a troublesome child
 烦人的孩子
 2. troublesome itching
 难受的痒
 "
-oval,"adj.椭圆的；卵形的
+oval,...the small oval framed picture of a little boy.,…一个小男孩的镶在椭圆形框架里的小幅照片。,"adj.椭圆的；卵形的
 n.椭圆形；卵形
 ","1. ...the small oval framed picture of a little boy.
 …一个小男孩的镶在椭圆形框架里的小幅照片。
 "
-sting,"n.刺痛；讽刺，刺激；刺毛
+sting,She felt the sting of tears in her eyes.,她感觉泪水刺痛了眼睛。,"n.刺痛；讽刺，刺激；刺毛
 v.刺；驱使；使…苦恼；使…疼痛
 ","1. She felt the sting of tears in her eyes.
 她感觉泪水刺痛了眼睛。
 "
-handicap,"n.障碍；不利条件，不利的因素
+handicap,Not speaking the language is a real handicap.,不会讲这种语言的确是一个障碍。,"n.障碍；不利条件，不利的因素
 v.妨碍，阻碍；使不利
 ","1. Not speaking the language is a real handicap.
 不会讲这种语言的确是一个障碍。
 "
-apology,"n.道歉；谢罪；辩护；勉强的替代物
+apology,"Edward can’t be here today, but he sends his apologies .",爱德华今天来不了，他向大家表示歉意。,"n.道歉；谢罪；辩护；勉强的替代物
 ","1. Edward can’t be here today, but he sends his apologies .
 爱德华今天来不了，他向大家表示歉意。
 "
-portrait,"n.肖像；描写；半身雕塑像
+portrait,a family portrait,全家福,"n.肖像；描写；半身雕塑像
 ","1. a family portrait
 全家福
 2. She’s been commissioned to paint Jackson’s portrait .
 她已受托为杰克逊画肖像。
 "
-compress,"v.受压缩小
+compress,"Light silk is best for parachutes, as it compresses well and then expands rapidly.",轻质丝绸最适合制作降落伞，因为这种面料便于压缩，而且展开迅速。,"v.受压缩小
 ","1. Light silk is best for parachutes, as it compresses well and then expands rapidly.
 轻质丝绸最适合制作降落伞，因为这种面料便于压缩，而且展开迅速。
 2. Isobel nodded, her lips compressed.
@@ -1289,7 +1289,7 @@ compress,"v.受压缩小
 3. The miners used rock drills and compressed air to drive through hard rock.
 矿工使用钻岩机和压缩空气来凿穿坚硬的岩石。
 "
-cough,"n.咳嗽，咳嗽声；咳嗽病
+cough,He’s got a bad cough.,他咳嗽得很厉害。,"n.咳嗽，咳嗽声；咳嗽病
 v.咳出
 ","1. He’s got a bad cough.
 他咳嗽得很厉害。
@@ -1298,11 +1298,11 @@ v.咳出
 3. cough medicine
 止咳药
 "
-recede,"v.后退；减弱
+recede,"Just as I started to think that I was never going to get well, the illness began to recede.",就在我开始认为我将永远不会好起来的时候，我的病开始好转。,"v.后退；减弱
 ","1. Just as I started to think that I was never going to get well, the illness began to recede.
 就在我开始认为我将永远不会好起来的时候，我的病开始好转。
 "
-neat,"adj.灵巧的；整洁的；优雅的；齐整的；未搀水的；平滑的
+neat,neat handwriting,工整的笔迹,"adj.灵巧的；整洁的；优雅的；齐整的；未搀水的；平滑的
 ","1. neat handwriting
 工整的笔迹
 2. His clothes were always neat and clean.
@@ -1312,12 +1312,12 @@ neat,"adj.灵巧的；整洁的；优雅的；齐整的；未搀水的；平滑�
 4. She arranged the books in a nice neat pile.
 她把书摞成整齐的一堆。
 "
-stalk,"n.（植物的）茎，秆；（支持叶子、果实和花的）梗，柄；追踪；高视阔步
+stalk,celery stalks,芹菜茎,"n.（植物的）茎，秆；（支持叶子、果实和花的）梗，柄；追踪；高视阔步
 v.追踪，潜近；高视阔步
 ","1. celery stalks
 芹菜茎
 "
-stale,"adj.陈腐的；不新鲜的
+stale,French bread goes stale (= becomes stale ) very quickly.,法式面包极易变味。,"adj.陈腐的；不新鲜的
 v.变陈旧；撒尿；变得不新鲜
 n.尿
 ","1. French bread goes stale (= becomes stale ) very quickly.
@@ -1325,7 +1325,7 @@ n.尿
 2. stale cake
 不新鲜的蛋糕
 "
-salt,"n.盐；风趣，刺激性
+salt,This might need some salt and pepper.,这里面也许要加点盐和胡椒粉。,"n.盐；风趣，刺激性
 adj.咸水的；含盐的，咸味的；盐腌的；猥亵的
 v.用盐腌；给…加盐；将盐撒在道路上使冰或雪融化
 ","1. This might need some salt and pepper.
@@ -1335,7 +1335,7 @@ v.用盐腌；给…加盐；将盐撒在道路上使冰或雪融化
 3. Could you pass the salt?
 递一下盐好吗？
 "
-pound,"n.英镑；重击，重击声；兽栏；拘留所
+pound,They spent over a thousand pounds.,他们花了一千多英镑。,"n.英镑；重击，重击声；兽栏；拘留所
 v.捣烂；敲打；监禁，拘留
 ","1. They spent over a thousand pounds.
 他们花了一千多英镑。
@@ -1346,7 +1346,7 @@ v.捣烂；敲打；监禁，拘留
 4. She pounded the corn kernels.
 她捣碎了玉米粒。
 "
-neck,"n.脖子；衣领；海峡
+neck,Mike rubbed the back of his neck.,迈克揉了揉后颈。,"n.脖子；衣领；海峡
 v.搂著脖子亲吻；变狭窄
 ","1. Mike rubbed the back of his neck.
 迈克揉了揉后颈。
@@ -1359,12 +1359,12 @@ v.搂著脖子亲吻；变狭窄
 5. The dog picked up the puppy and carried it by the scruff of the neck into the house.
 那条狗叼住小狗的后颈，把它叼进了屋子。
 "
-throw,"v.投；抛；掷
+throw,The bus stopped suddenly and we were all thrown forwards.,公共汽车猛地停住，我们都往前栽。,"v.投；抛；掷
 n.投掷；冒险
 ","1. The bus stopped suddenly and we were all thrown forwards.
 公共汽车猛地停住，我们都往前栽。
 "
-pond,"vt.筑成池塘
+pond,The path descends to  the pond.,小路下斜通到池塘。,"vt.筑成池塘
 vi.筑成池塘
 n.池塘
 ","1. The path descends to  the pond.
@@ -1374,7 +1374,7 @@ n.池塘
 3. Wild flowers and grasses rimmed the little pond.
 各种野花和野草环绕着这个小池塘。
 "
-stamp,"n.邮票；印记；标志；跺脚
+stamp,a 29-cent stamp,一枚 29 美分的邮票,"n.邮票；印记；标志；跺脚
 v.铭记；标出；盖章于…；贴邮票于…；用脚踩踏
 ","1. a 29-cent stamp
 一枚 29 美分的邮票
@@ -1383,18 +1383,18 @@ v.铭记；标出；盖章于…；贴邮票于…；用脚踩踏
 3. a second-class stamp
 一张二类邮件的邮票
 "
-fraction,"n.分数；部分；小部分；稍微
+fraction,,,"n.分数；部分；小部分；稍微
 ",
-objection,"n.异议，反对；缺陷，缺点；妨碍；拒绝的理由
+objection,Her objection was that he was too young.,她反对的理由是他太小。,"n.异议，反对；缺陷，缺点；妨碍；拒绝的理由
 ","1. Her objection was that he was too young.
 她反对的理由是他太小。
 "
-desolate,"adj.荒凉的；无人烟的
+desolate,a desolate landscape,荒凉的景色,"adj.荒凉的；无人烟的
 v.使荒凉；使孤寂
 ","1. a desolate landscape
 荒凉的景色
 "
-roast,"v.烤，焙；烘，烘烤；暴露于某种热力下以得温暖
+roast,Are you going to roast the chicken?,这鸡你是准备烤的吗？,"v.烤，焙；烘，烘烤；暴露于某种热力下以得温暖
 adj.烘烤的；烤过的
 n.烤肉；烘烤
 ","1. Are you going to roast the chicken?
@@ -1404,67 +1404,67 @@ n.烤肉；烘烤
 3. We caught a rabbit and roasted it over an open fire.
 我们捉到一只兔子，放在火上烧烤。
 "
-headquarters,"n.总部；指挥部；司令部
+headquarters,the headquarters of the United Nations,联合国总部,"n.总部；指挥部；司令部
 ","1. the headquarters of the United Nations
 联合国总部
 "
-arrival,"n.到来；到达；到达者
+arrival,Only the timely arrival of the police prevented the situation from becoming worse.,警方及时赶到才阻止了事态恶化。,"n.到来；到达；到达者
 ","1. Only the timely arrival of the police prevented the situation from becoming worse.
 警方及时赶到才阻止了事态恶化。
 2. Traffic problems account for one third of late arrivals.
 迟到的人有三分之一是因为交通问题。
 "
-handkerchief,"n.手帕；头巾，围巾
+handkerchief,Before sweeping the house she bound up her hair in a large handkerchief.,打扫房屋前， 她把头发用一块大手帕扎起来。,"n.手帕；头巾，围巾
 ","1. Before sweeping the house she bound up her hair in a large handkerchief.
 打扫房屋前， 她把头发用一块大手帕扎起来。
 "
-stomach,"n.胃；腹部；胃口
+stomach,I was so hungry my stomach hurt.,我饿得胃都痛了。,"n.胃；腹部；胃口
 v.忍受；吃下
 ","1. I was so hungry my stomach hurt.
 我饿得胃都痛了。
 2. His stomach was full of food.
 他的胃里塞满了食物。
 "
-radioactive,"adj.[核] 放射性的；有辐射的
+radioactive,the problem of how to dispose of radioactive waste,如何处理放射性废物的问题,"adj.[核] 放射性的；有辐射的
 ","1. the problem of how to dispose of radioactive waste
 如何处理放射性废物的问题
 2. a consignment of highly radioactive plutonium
 发送的一批高放射性钚
 "
-sorrow,"n.悲伤；懊悔；伤心事
+sorrow,the family’s joys and sorrows,这家人的喜与悲,"n.悲伤；懊悔；伤心事
 v.懊悔；遗憾；感到悲伤
 ","1. the family’s joys and sorrows
 这家人的喜与悲
 "
-tanker,"n.油轮；运油飞机；油槽车；坦克手
+tanker,A Greek oil tanker has run aground.,一艘希腊油轮已经搁浅了。,"n.油轮；运油飞机；油槽车；坦克手
 ","1. A Greek oil tanker has run aground.
 一艘希腊油轮已经搁浅了。
 "
-rotate,"v.旋转；循环
+rotate,The Earth rotates on its axis once every 24 hours.,地球每24小时绕地轴自转一周。,"v.旋转；循环
 adj.[植] 辐状的
 ","1. The Earth rotates on its axis once every 24 hours.
 地球每24小时绕地轴自转一周。
 2. Rotate the pan halfway through the baking time.
 烘烤到一半时把盘子转一下。
 "
-curl,"v.使…卷曲；使卷起来
+curl,Her lip curled in contempt.,她轻蔑地撇撇嘴。,"v.使…卷曲；使卷起来
 n.卷曲；卷发；螺旋状物
 ","1. Her lip curled in contempt.
 她轻蔑地撇撇嘴。
 "
-receipt,"n.收到；收据；收入
+receipt,Keep your receipt in case you want to bring it back.,保留收据以备退货之需。,"n.收到；收据；收入
 v.收到
 ","1. Keep your receipt in case you want to bring it back.
 保留收据以备退货之需。
 2. Can you give me a receipt?
 你能给我一个收条吗？
 "
-integral,"adj.积分的；完整的，整体的；构成整体所必须的
+integral,"Rituals, celebrations, and festivals form an integral part of every human society.",仪式、庆典和节日是每个人类社会不可缺少的组成部分。,"adj.积分的；完整的，整体的；构成整体所必须的
 n.积分；部分；完整
 ","1. Rituals, celebrations, and festivals form an integral part of every human society.
 仪式、庆典和节日是每个人类社会不可缺少的组成部分。
 "
-bread,"n.面包；生计
+bread,Would you like some bread with your soup?,你喝汤时要吃点面包吗？,"n.面包；生计
 v.在…上洒面包屑
 ","1. Would you like some bread with your soup?
 你喝汤时要吃点面包吗？
@@ -1473,18 +1473,18 @@ v.在…上洒面包屑
 3. a piece of bread and butter
 一块黄油面包
 "
-import,"n.进口，进口货；输入；意思，含义；重要性
+import,,,"n.进口，进口货；输入；意思，含义；重要性
 v.输入，进口；含…的意思
 ",
-synthesis,"n.综合，[化学] 合成；综合体
+synthesis,speech synthesis software,语音合成软件,"n.综合，[化学] 合成；综合体
 ","1. speech synthesis software
 语音合成软件
 "
-cassette,"n.盒式磁带；暗盒；珠宝箱；片匣
+cassette,His two albums released on cassette have sold 10 million copies.,他以磁带形式发行的两张专辑已售出1000万份。,"n.盒式磁带；暗盒；珠宝箱；片匣
 ","1. His two albums released on cassette have sold 10 million copies.
 他以磁带形式发行的两张专辑已售出1000万份。
 "
-knife,"n.刀；匕首
+knife,a knife and fork,一副刀叉,"n.刀；匕首
 v.用刀切；（口）伤害
 ","1. a knife and fork
 一副刀叉
@@ -1495,52 +1495,52 @@ v.用刀切；（口）伤害
 4. Use a sharp knife to cut the melon into sections.
 用快刀把瓜切成块。
 "
-butterfly,"n.蝴蝶；蝶泳；举止轻浮的人；追求享乐的人
+butterfly,Gwen’s a real social butterfly .,格温是个十足的交际花。,"n.蝴蝶；蝶泳；举止轻浮的人；追求享乐的人
 ","1. Gwen’s a real social butterfly .
 格温是个十足的交际花。
 "
-ring,"v.按铃；敲钟；回响；成环形
+ring,He left Washington with the president’s praises ringing in his ears.,他离开了华盛顿，总统的赞扬还在他耳际回响。,"v.按铃；敲钟；回响；成环形
 n.戒指；铃声，钟声；拳击场；环形物
 ","1. He left Washington with the president’s praises ringing in his ears.
 他离开了华盛顿，总统的赞扬还在他耳际回响。
 "
-welfare,"n.福利；幸福；福利事业；安宁
+welfare,Our only concern is the children’s welfare.,我们唯一关心的是孩子们的幸福。,"n.福利；幸福；福利事业；安宁
 adj.福利的；接受社会救济的
 ","1. Our only concern is the children’s welfare.
 我们唯一关心的是孩子们的幸福。
 2. Child welfare services are well established and comprehensive.
 儿童福利机构发展成熟、体系完善。
 "
-destination,"n.目的地，终点
+destination,Ellis Island has become one of America's most popular tourist destinations.,埃利斯岛已经成为美国最受欢迎的游览地之一。,"n.目的地，终点
 ","1. Ellis Island has become one of America's most popular tourist destinations.
 埃利斯岛已经成为美国最受欢迎的游览地之一。
 "
-discount,"n.折扣；贴现率
+discount,They are often available at a discount.,它们经常可以以折扣价买到。,"n.折扣；贴现率
 v.贴现；打折扣出售商品
 ","1. They are often available at a discount.
 它们经常可以以折扣价买到。
 "
-gas,"n.气体；[矿业] 瓦斯；汽油；毒气
+gas,hydrogen gas,氢气,"n.气体；[矿业] 瓦斯；汽油；毒气
 v.加油；毒（死）
 ","1. hydrogen gas
 氢气
 "
-gay,"adj.快乐的；放荡的；艳丽的
+gay,She felt excited and quite gay.,她感到兴奋而快活。,"adj.快乐的；放荡的；艳丽的
 n.同性恋者
 ","1. She felt excited and quite gay.
 她感到兴奋而快活。
 "
-poster,"n.海报，广告；招贴
+poster,A team of volunteers were putting up posters .,一队志愿者正在张贴海报。,"n.海报，广告；招贴
 ","1. A team of volunteers were putting up posters .
 一队志愿者正在张贴海报。
 2. a poster campaign for the election
 选举的海报宣传
 "
-abundance,"n.充裕，丰富
+abundance,This area of Mexico has an abundance of safe beaches and a pleasing climate.,墨西哥的这个地区有大量的安全沙滩与宜人的气候。,"n.充裕，丰富
 ","1. This area of Mexico has an abundance of safe beaches and a pleasing climate.
 墨西哥的这个地区有大量的安全沙滩与宜人的气候。
 "
-mosquito,"n.蚊子
+mosquito,The male mosquito never stings.,雄蚊不叮。,"n.蚊子
 ","1. The male mosquito never stings.
 雄蚊不叮。
 2. Are your mosquito bites still itching?
@@ -1548,7 +1548,7 @@ mosquito,"n.蚊子
 3. The frog darted out its tongue to catch a mosquito.
 这只青蛙突然伸出舌头捕捉蚊子。
 "
-riot,"n.暴乱；放纵；蔓延
+riot,urban riots,城市骚乱,"n.暴乱；放纵；蔓延
 v.骚乱；放荡
 ","1. urban riots
 城市骚乱
@@ -1561,18 +1561,18 @@ v.骚乱；放荡
 5. police in bullet-proof vests and carrying riot shields
 穿防弹背心、持防暴盾牌的警察
 "
-closet,"n.壁橱；议事室，密室；小房间
+closet,a closet full of beautiful clothes,满是漂亮衣服的壁橱,"n.壁橱；议事室，密室；小房间
 adj.秘密的，私下的；空谈的
 v.把…关在私室中
 ","1. a closet full of beautiful clothes
 满是漂亮衣服的壁橱
 "
-recover,"v.恢复；弥补；重新获得
+recover,"After a few days of fever, she began to recover.",发烧几天之后，她开始恢复。,"v.恢复；弥补；重新获得
 n.还原至预备姿势
 ","1. After a few days of fever, she began to recover.
 发烧几天之后，她开始恢复。
 "
-dizzy,"adj.晕眩的；使人头晕的；昏乱的；心不在焉的；愚蠢的
+dizzy,The heat and the champagne made him feel dizzy .,高温和香槟酒使他感到眩晕。,"adj.晕眩的；使人头晕的；昏乱的；心不在焉的；愚蠢的
 v.使头晕眼花；使混乱；使茫然
 n.(Dizzy)人名；(英)迪齐
 ","1. The heat and the champagne made him feel dizzy .
@@ -1580,36 +1580,36 @@ n.(Dizzy)人名；(英)迪齐
 2. She started to suffer from dizzy spells (= a short period when you feel dizzy ) .
 她开始感到一阵阵的眩晕。
 "
-oak,"n.橡树；橡木色；橡木家具
+oak,an oak door,橡木门,"n.橡树；橡木色；橡木家具
 adj.栎树的；栎木制的
 ","1. an oak door
 橡木门
 "
-consecutive,"adj.连贯的；连续不断的
+consecutive,It had rained for four consecutive days.,雨接连下了四天。,"adj.连贯的；连续不断的
 ","1. It had rained for four consecutive days.
 雨接连下了四天。
 2. Can they win the title for the third consecutive season?
 他们能连续第三个赛季赢得冠军称号吗？
 "
-rotary,"adj.旋转的，转动的；轮流的
+rotary,the rotary movement of the helicopter blades,直升机螺旋桨叶的转动,"adj.旋转的，转动的；轮流的
 n.旋转式机器；[动力] 转缸式发动机
 ","1. the rotary movement of the helicopter blades
 直升机螺旋桨叶的转动
 "
-oar,"n.桨；橹；桨手
+oar,We were getting along fine until you stuck your oar in.,在你掺和进来之前，我们一直好好的。,"n.桨；橹；桨手
 vt.划（船）
 vi.划行
 ","1. We were getting along fine until you stuck your oar in.
 在你掺和进来之前，我们一直好好的。
 "
-flight,"n.飞行；班机；逃走
+flight,He immediately booked a flight to Toulouse.,他当即就订了去图卢兹的航班。,"n.飞行；班机；逃走
 v.射击；使惊飞
 ","1. He immediately booked a flight to Toulouse.
 他当即就订了去图卢兹的航班。
 2. There are only three flights a day to Logan Airport from Heathrow.
 希思罗机场每天只有三趟飞往洛根机场的航班。
 "
-kettle,"n.壶；[化工] 釜；罐；鼓
+kettle,She filled the kettle and switched it on.,她把水壶灌满，打开了开关。,"n.壶；[化工] 釜；罐；鼓
 ","1. She filled the kettle and switched it on.
 她把水壶灌满，打开了开关。
 2. The kettle’s boiling (= the water in it is boiling ).
@@ -1617,66 +1617,66 @@ kettle,"n.壶；[化工] 釜；罐；鼓
 3. (= start boiling water in a kettle ), will you?
 烧壶水，好吗？
 "
-proposal,"n.提议，建议；求婚
+proposal,The president is to put forward new proposals for resolving the country's constitutional crisis.,总统将提出解决国家宪法危机的新议案。,"n.提议，建议；求婚
 ","1. The president is to put forward new proposals for resolving the country's constitutional crisis.
 总统将提出解决国家宪法危机的新议案。
 "
-ripe,"adj.熟的，成熟的；时机成熟的
+ripe,Those tomatoes aren’t ripe yet.,那些番茄还没熟。,"adj.熟的，成熟的；时机成熟的
 vt.搜查；调查
 vi.进行搜查
 n.(Ripe)人名；(意、瑞典)里佩
 ","1. Those tomatoes aren’t ripe yet.
 那些番茄还没熟。
 "
-resemblance,"n.相似；相似之处；相似物；肖像
+resemblance,There was a remarkable resemblance between him and Pete.,他和皮特有一个惊人的相似之处。,"n.相似；相似之处；相似物；肖像
 ","1. There was a remarkable resemblance between him and Pete.
 他和皮特有一个惊人的相似之处。
 "
-uncover,"v.发现；揭开；揭露
+uncover,Customs officials uncovered a plot to smuggle weapons into the country.,海关官员侦破了一个走私武器入境的阴谋。,"v.发现；揭开；揭露
 ","1. Customs officials uncovered a plot to smuggle weapons into the country.
 海关官员侦破了一个走私武器入境的阴谋。
 "
-illustration,"n.说明；插图；例证；图解
+illustration,The book contains 62 pages of illustrations.,这本书有62页插图。,"n.说明；插图；例证；图解
 ","1. The book contains 62 pages of illustrations.
 这本书有62页插图。
 "
-nursery,"n.苗圃；托儿所；温床
+nursery,She puts her baby in this nursery and then goes back to work.,她把孩子送到这家托儿所然后回去上班。,"n.苗圃；托儿所；温床
 ","1. She puts her baby in this nursery and then goes back to work.
 她把孩子送到这家托儿所然后回去上班。
 "
-niece,"n.外甥女，侄女
+niece,"...his niece, the daughter of his eldest sister.",…他的外甥女，他大姐的女儿。,"n.外甥女，侄女
 ","1. ...his niece, the daughter of his eldest sister.
 …他的外甥女，他大姐的女儿。
 "
-refuge,"n.避难；避难所；庇护
+refuge,a wildlife refuge,野生动物保护区,"n.避难；避难所；庇护
 vt.给予…庇护；接纳…避难
 vi.避难；逃避
 ","1. a wildlife refuge
 野生动物保护区
 "
-buffet,"n.自助餐；小卖部；打击；猛烈冲击
+buffet,a cold buffet,冷餐会,"n.自助餐；小卖部；打击；猛烈冲击
 v.与…搏斗；连续猛击
 adj.自助的；自助餐的
 ","1. a cold buffet
 冷餐会
 "
-squeeze,"v.挤；紧握；勒索
+squeeze,She smiled as he squeezed her hand.,他捏了捏她的手，她笑了。,"v.挤；紧握；勒索
 n.压榨；紧握；拥挤；佣金
 ","1. She smiled as he squeezed her hand.
 他捏了捏她的手，她笑了。
 2. He squeezed the trigger, but nothing happened.
 他扣动扳机，但没有反应。
 "
-envisage,"v.正视，面对；想像
+envisage,He envisages the possibility of establishing direct diplomatic relations in the future.,他设想将来建立直接外交关系的可能性。,"v.正视，面对；想像
 ","1. He envisages the possibility of establishing direct diplomatic relations in the future.
 他设想将来建立直接外交关系的可能性。
 "
-torture,"v.折磨；拷问；歪曲
+torture,Political opponents of the regime may be tortured.,这个政权的政治异己可能会遭受酷刑。,"v.折磨；拷问；歪曲
 n.折磨；拷问；歪曲
 ","1. Political opponents of the regime may be tortured.
 这个政权的政治异己可能会遭受酷刑。
 "
-champion,"n.冠军；拥护者；战士
+champion,the world heavyweight boxing champion,世界重量级拳击冠军,"n.冠军；拥护者；战士
 v.支持；拥护
 adj.优胜的；第一流的
 ","1. the world heavyweight boxing champion
@@ -1686,50 +1686,50 @@ adj.优胜的；第一流的
 3. He passionately championed the poor.
 他曾热情地捍卫穷人。
 "
-republic,"n.共和国；共和政体
+republic,the former Federal Republic of Germany,前德意志联邦共和国,"n.共和国；共和政体
 ","1. the former Federal Republic of Germany
 前德意志联邦共和国
 2. Nine republics took part in the referendum.
 有九个共和国参加了全民公决。
 "
-fling,"v.掷，抛；嘲笑；使陷入；轻蔑地投射；猛动
+fling,He flung his coat over the back of a chair.,他把外套扔在椅背上。,"v.掷，抛；嘲笑；使陷入；轻蔑地投射；猛动
 n.掷，抛；嘲弄；急冲
 ","1. He flung his coat over the back of a chair.
 他把外套扔在椅背上。
 "
-musical,"adj.音乐的；悦耳的
+musical,a musical version of the fairy tale ‘Cinderella’,童话故事《灰姑娘》的音乐剧版,"adj.音乐的；悦耳的
 n.音乐片
 ","1. a musical version of the fairy tale ‘Cinderella’
 童话故事《灰姑娘》的音乐剧版
 2. When he began his musical career, King played only for black audiences.
 金在音乐事业的开始阶段只为黑人观众演奏。
 "
-dusk,"n.黄昏，薄暮；幽暗，昏暗
+dusk,The street lights go on at dusk.,街灯在黄昏时亮起来。,"n.黄昏，薄暮；幽暗，昏暗
 adj.微暗的
 v.使变微暗
 ","1. The street lights go on at dusk.
 街灯在黄昏时亮起来。
 "
-bulletin,"n.公告，公报
+bulletin,At 3:30 p.m. a bulletin was released announcing that the president was out of immediate danger.,下午3:30发布了公告，宣布总统暂时脱离了危险。,"n.公告，公报
 v.公布，公告
 ","1. At 3:30 p.m. a bulletin was released announcing that the president was out of immediate danger.
 下午3:30发布了公告，宣布总统暂时脱离了危险。
 "
-stiff,"adj.呆板的；坚硬的；严厉的；拘谨的
+stiff,I never felt stiff after training until I was in my thirties.,三十岁之前，我训练后从不会感到身体发僵。,"adj.呆板的；坚硬的；严厉的；拘谨的
 adv.僵硬地；彻底地
 n.死尸；令人讨厌者；流通票据；劳动者
 v.诈骗；失信
 ","1. I never felt stiff after training until I was in my thirties.
 三十岁之前，我训练后从不会感到身体发僵。
 "
-stack,"n.堆；堆叠
+stack,stacks of dirty dishes,一摞摞脏盘子,"n.堆；堆叠
 v.使堆叠；把…堆积起来
 ","1. stacks of dirty dishes
 一摞摞脏盘子
 2. Mrs. Cathiard was stacking the clean bottles in crates.
 卡提亚夫人当时正在把干净的瓶子堆放到板条箱里。
 "
-cotton,"n.棉花；棉布；棉线
+cotton,a white cotton shirt,白色棉布衬衫,"n.棉花；棉布；棉线
 v.一致；理解；和谐；亲近
 adj.棉的；棉制的
 ","1. a white cotton shirt
@@ -1737,11 +1737,11 @@ adj.棉的；棉制的
 2. Made from 100% cotton.
 百分之百纯棉制作。
 "
-fixture,"n.设备；固定装置；固定于某处不大可能移动之物
+fixture,light fixtures,照明设备,"n.设备；固定装置；固定于某处不大可能移动之物
 ","1. light fixtures
 照明设备
 "
-frog,"n.青蛙；[铁路] 辙叉；饰扣
+frog,The tadpole has become a frog.,这个蝌蚪已长成青蛙。,"n.青蛙；[铁路] 辙叉；饰扣
 v.捕蛙
 ","1. The tadpole has become a frog.
 这个蝌蚪已长成青蛙。
@@ -1750,7 +1750,7 @@ v.捕蛙
 3. The frog darted out its tongue to catch a mosquito.
 这只青蛙突然伸出舌头捕捉蚊子。
 "
-earnest,"adj.认真的，热心的；重要的
+earnest,a rather earnest young man,相当认真的一个年轻人,"adj.认真的，热心的；重要的
 n.认真；定金；诚挚
 ","1. a rather earnest young man
 相当认真的一个年轻人
@@ -1759,55 +1759,55 @@ n.认真；定金；诚挚
 3. an earnest desire to offer something useful to society
 为社会做贡献的真诚愿望
 "
-wax,"n.蜡；蜡状物
+wax,wax crayons,蜡笔,"n.蜡；蜡状物
 v.给…上蜡
 adj.蜡制的；似蜡的
 ","1. wax crayons
 蜡笔
 "
-symphony,"n.交响乐；谐声，和声
+symphony,Bruckner’s Fifth Symphony,布鲁克纳的《第五交响曲》,"n.交响乐；谐声，和声
 ","1. Bruckner’s Fifth Symphony
 布鲁克纳的《第五交响曲》
 "
-loudspeaker,"n.喇叭，扬声器；扩音器
+loudspeaker,The loudspeaker announced the arrival of the train.,广播说火车进站了。,"n.喇叭，扬声器；扩音器
 ","1. The loudspeaker announced the arrival of the train.
 广播说火车进站了。
 "
-naval,"adj.海军的；军舰的
+naval,a naval officer,海军军官,"adj.海军的；军舰的
 n.(Naval)人名；(西、德、印)纳瓦尔
 ","1. a naval officer
 海军军官
 2. naval battles
 海战
 "
-spacious,"adj.宽敞的，广阔的；无边无际的
+spacious,a spacious living area,宽敞的居住空间,"adj.宽敞的，广阔的；无边无际的
 ","1. a spacious living area
 宽敞的居住空间
 "
-mould,"v.发霉
+mould,Clothes mould in wet weather.,天气潮湿时衣服会发霉。,"v.发霉
 n.模具；霉
 ","1. Clothes mould in wet weather.
 天气潮湿时衣服会发霉。
 2. Such oil can contain carcinogens and toxic mould.
 这种油可能包含致癌物和有毒的霉。
 "
-linger,"v.徘徊；苟延残喘；磨蹭
+linger,He surprised all the doctors by lingering on for several weeks.,他拖了几个星期才去世，让所有的医生都很惊讶。,"v.徘徊；苟延残喘；磨蹭
 n.(Linger)人名；(德、捷、瑞典)林格；(法)兰热
 ","1. He surprised all the doctors by lingering on for several weeks.
 他拖了几个星期才去世，让所有的医生都很惊讶。
 "
-retention,"n.保留；扣留，滞留；记忆力；闭尿
+retention,Many people with heart problems suffer from fluid retention.,很多有心脏病的人都有体液潴留。,"n.保留；扣留，滞留；记忆力；闭尿
 ","1. Many people with heart problems suffer from fluid retention.
 很多有心脏病的人都有体液潴留。
 "
-heave,"v.举起；使起伏；投掷；恶心；发出（叹息等）
+heave,Michael’s shoulders heaved with silent laughter.,迈克尔憋着不笑出声来，双肩直抖。,"v.举起；使起伏；投掷；恶心；发出（叹息等）
 n.举起；起伏；投掷；一阵呕吐
 ","1. Michael’s shoulders heaved with silent laughter.
 迈克尔憋着不笑出声来，双肩直抖。
 2. The sea heaved up and down beneath the boat.
 船的下面大海波涛汹涌。
 "
-sophomore,"n.大学二年级生；（美）有二年经验的人
+sophomore,"His daughter, Louise, is by now a college sophomore.",他的女儿，路易斯，现在是大学二年级学生。,"n.大学二年级生；（美）有二年经验的人
 adj.二年级的；二年级学生的
 ","1. His daughter, Louise, is by now a college sophomore.
 他的女儿，路易斯，现在是大学二年级学生。
@@ -1816,56 +1816,56 @@ adj.二年级的；二年级学生的
 3. It was June 2001, and just the thought of causing any more pain to 20-year-old Michael, a college sophomore diagnosed a few months earlier with a rare form of leukemia, made her anxious.
 那是在2001年六月，20岁的迈克尔是一所大学二年级的学生，几个月前他被查出患了一种罕见的白血病。 一想到又要给儿子增加痛苦她就感到不安。
 "
-driver,"n.驾驶员；驱动程序；起子；传动器
+driver,a taxi driver,出租车司机,"n.驾驶员；驱动程序；起子；传动器
 ","1. a taxi driver
 出租车司机
 2. Do you think you’re a good driver?
 你认为自己是个好司机吗？
 "
-swarm,"v.挤满；成群浮游；云集
+swarm,Within minutes the area was swarming with officers who began searching a nearby wood.,几分钟之内这个地方挤满了警官，他们开始搜查附近的一片树林。,"v.挤满；成群浮游；云集
 n.蜂群；一大群
 ","1. Within minutes the area was swarming with officers who began searching a nearby wood.
 几分钟之内这个地方挤满了警官，他们开始搜查附近的一片树林。
 "
-poem,"n.诗
+poem,...a book of love poems.,…一本爱情诗集。,"n.诗
 ","1. ...a book of love poems.
 …一本爱情诗集。
 "
-playground,"n.运动场，操场；游乐场
+playground,children shouting and running in the playground,在操场上叫嚷奔跑的孩子们,"n.运动场，操场；游乐场
 ","1. children shouting and running in the playground
 在操场上叫嚷奔跑的孩子们
 "
-avert,"v.避免，防止；转移
+avert,The tragedy could have been averted if the crew had followed safety procedures.,如果乘务人员按照安全规则操作，这场悲剧是可以避免的。,"v.避免，防止；转移
 ","1. The tragedy could have been averted if the crew had followed safety procedures.
 如果乘务人员按照安全规则操作，这场悲剧是可以避免的。
 "
-hover,"v.盘旋，翱翔；徘徊
+hover,Her younger brother hovered in the background watching us.,她的弟弟在后面走来走去，观察着我们。,"v.盘旋，翱翔；徘徊
 n.徘徊；盘旋；犹豫
 ","1. Her younger brother hovered in the background watching us.
 她的弟弟在后面走来走去，观察着我们。
 "
-oath,"n.誓言，誓约；诅咒，咒骂
+oath,The president took the oath of office (= made the official public promises that every president makes when starting their job ) .,总统宣誓就职。,"n.誓言，誓约；诅咒，咒骂
 ","1. The president took the oath of office (= made the official public promises that every president makes when starting their job ) .
 总统宣誓就职。
 2. She could not break her oath .
 她不能违背誓言。
 "
-marxist,"n.马克思主义者
+marxist,...a 78-year-old former Marxist.,…一位78岁的前马克思主义者。,"n.马克思主义者
 adj.马克思主义的
 ","1. ...a 78-year-old former Marxist.
 …一位78岁的前马克思主义者。
 2. ...a Marxist state.
 …一个信奉马克思主义的国家。
 "
-evacuate,"v.疏散，撤退；排泄
+evacuate,Police evacuated the area.,警方将该地区人员全部疏散。,"v.疏散，撤退；排泄
 ","1. Police evacuated the area.
 警方将该地区人员全部疏散。
 "
-bleed,"v.使出血；榨取
+bleed,His ex-wife clearly intends to bleed him for every last penny.,他的前妻显然是想榨干他每一分钱。,"v.使出血；榨取
 ","1. His ex-wife clearly intends to bleed him for every last penny.
 他的前妻显然是想榨干他每一分钱。
 "
-wood,"n.木材；木制品；树林
+wood,Put some more wood on the fire.,往火上再添些木柴。,"n.木材；木制品；树林
 vi.收集木材
 vt.植林于；给…添加木柴
 ","1. Put some more wood on the fire.
@@ -1875,63 +1875,63 @@ vt.植林于；给…添加木柴
 3. Her house was made of wood .
 她家的房子是木头盖的。
 "
-arrow,"n.箭，箭头；箭状物；箭头记号
+arrow,Follow the arrows to the X-ray department.,顺着箭头指示的方向去X光科。,"n.箭，箭头；箭状物；箭头记号
 vt.以箭头指示；箭一般地飞向
 ","1. Follow the arrows to the X-ray department.
 顺着箭头指示的方向去X光科。
 "
-installation,"n.安装，装置；就职
+installation,the installation and maintenance of alarm systems,警报系统的安装和维护,"n.安装，装置；就职
 ","1. the installation and maintenance of alarm systems
 警报系统的安装和维护
 "
-classify,"v.分类；分等
+classify,We’d classify Drabble’s novels under ‘Romance’.,我们把德拉布尔的小说归类为“言情小说”。,"v.分类；分等
 ","1. We’d classify Drabble’s novels under ‘Romance’.
 我们把德拉布尔的小说归类为“言情小说”。
 2. Families are classified according to the father’s occupation.
 各个家庭按父亲的职业分类。
 "
-slipper,"n.拖鞋
+slipper,...a pair of old slippers.,…一双旧拖鞋。,"n.拖鞋
 vt.用拖鞋打
 ","1. ...a pair of old slippers.
 …一双旧拖鞋。
 "
-intercourse,"n.性交；交往；交流
+intercourse,social intercourse,社交,"n.性交；交往；交流
 ","1. social intercourse
 社交
 "
-anticipate,"v.预期，期望；占先，抢先；提前使用
+anticipate,Sales are better than anticipated.,销量比预期要好。,"v.预期，期望；占先，抢先；提前使用
 ","1. Sales are better than anticipated.
 销量比预期要好。
 2. A good speaker is able to anticipate an audience’s needs and concerns.
 好的演讲者能够预先考虑到听众需要什么、关注什么。
 "
-juice,"n.（水果）汁，液；果汁
+juice,a carton of orange juice,一纸盒橙汁,"n.（水果）汁，液；果汁
 ","1. a carton of orange juice
 一纸盒橙汁
 2. A Coke and a tomato juice, please.
 请来一杯可乐和一杯番茄汁。
 "
-wool,"n.羊毛；毛线；绒线；毛织品；毛料衣物
+wool,a pure wool skirt,纯羊毛裙子,"n.羊毛；毛线；绒线；毛织品；毛料衣物
 ","1. a pure wool skirt
 纯羊毛裙子
 "
-undermine,"v.破坏，渐渐破坏；挖掘地基
+undermine,The continued fighting threatens to undermine efforts to negotiate an agreement.,持续的战斗有可能破坏通过谈判达成协议的努力。,"v.破坏，渐渐破坏；挖掘地基
 ","1. The continued fighting threatens to undermine efforts to negotiate an agreement.
 持续的战斗有可能破坏通过谈判达成协议的努力。
 "
-kitchen,"n.厨房；炊具；炊事人员
+kitchen,Sam went into the kitchen to make a pot of tea.,萨姆走进厨房去沏一壶茶。,"n.厨房；炊具；炊事人员
 ","1. Sam went into the kitchen to make a pot of tea.
 萨姆走进厨房去沏一壶茶。
 2. She is in the kitchen making a meal.
 她在厨房里做饭。
 "
-astronomy,"n.天文学
+astronomy,Do you know anything about astronomy?,你懂天文学吗?,"n.天文学
 ","1. Do you know anything about astronomy?
 你懂天文学吗?
 2. In both cases, these insights come not from the science of astronomy but from atmospherics — and that's not really so surprising.
 两种情形下，这些见解并非来自于天文学，而是来自大气干扰—— 而且，那并不令人感到如此的吃惊。
 "
-declare,"v.宣布，声明；断言，宣称
+declare,A state of emergency has been declared.,已宣布进入紧急状态。,"v.宣布，声明；断言，宣称
 ","1. A state of emergency has been declared.
 已宣布进入紧急状态。
 2. Mr Steel has been declared bankrupt
@@ -1939,18 +1939,18 @@ declare,"v.宣布，声明；断言，宣称
 3. We celebrate September 16, the day when Mexico declared independence from Spain (= officially stated that it was no longer ruled by Spain ) .
 我们在9月16日举行庆祝活动，这一天是墨西哥摆脱西班牙统治宣布独立的日子。
 "
-proceeding,"n.进行；程序；诉讼；事项
+proceeding,John is taking legal proceedings against his ex-partner.,约翰在对他的前合伙人提起法律诉讼。,"n.进行；程序；诉讼；事项
 v.开始；继续做；行进（proceed的ing形式）
 ","1. John is taking legal proceedings against his ex-partner.
 约翰在对他的前合伙人提起法律诉讼。
 "
-prick,"v.刺，戳；刺伤，刺痛；竖起
+prick,Prick the sausages before you grill them.,烤之前把香肠戳孔。,"v.刺，戳；刺伤，刺痛；竖起
 n.刺，扎；刺痛，刺伤；阴茎；锥
 adj.竖起的
 ","1. Prick the sausages before you grill them.
 烤之前把香肠戳孔。
 "
-supper,"n.晚餐，晚饭；夜宵
+supper,Why don’t you come over for supper on Friday?,周五为什么不过来吃晚饭呢？,"n.晚餐，晚饭；夜宵
 ","1. Why don’t you come over for supper on Friday?
 周五为什么不过来吃晚饭呢？
 2. We had supper in a small Italian place.
@@ -1958,28 +1958,28 @@ supper,"n.晚餐，晚饭；夜宵
 3. Have you eaten supper ?
 你吃过晚饭了吗？
 "
-owl,"n.猫头鹰；枭；惯于晚上活动的人
+owl,,,"n.猫头鹰；枭；惯于晚上活动的人
 ",
-warmth,"n.温暖；热情；激动
+warmth,"She went further into the room, drawn by the warmth of the fire.",她被火的温暖吸引着，走进了房间。,"n.温暖；热情；激动
 ","1. She went further into the room, drawn by the warmth of the fire.
 她被火的温暖吸引着，走进了房间。
 "
-latitude,"n.纬度；界限；活动范围
+latitude,The birds breed in northern latitudes.,这些鸟在北纬地区繁殖。,"n.纬度；界限；活动范围
 ","1. The birds breed in northern latitudes.
 这些鸟在北纬地区繁殖。
 "
-multitude,"n.群众；多数
+multitude,I had never seen such a multitude of stars before.,我以前从未见过这么多的星星。,"n.群众；多数
 ","1. I had never seen such a multitude of stars before.
 我以前从未见过这么多的星星。
 2. a multitude of possible interpretations
 种种可能的解释
 "
-wheel,"n.车轮；方向盘；转动
+wheel,Shall I take the wheel (= drive instead of someone else )?,我来开车好吗？,"n.车轮；方向盘；转动
 v.转动；使变换方向；给…装轮子
 ","1. Shall I take the wheel (= drive instead of someone else )?
 我来开车好吗？
 "
-breakfast,"n.早餐；早饭
+breakfast,We had bacon and eggs for breakfast .,我们早餐吃了熏肉鸡蛋。,"n.早餐；早饭
 v.吃早餐
 ","1. We had bacon and eggs for breakfast .
 我们早餐吃了熏肉鸡蛋。
@@ -1994,19 +1994,19 @@ v.吃早餐
 6. All the ladies breakfasted in their rooms.
 所有女士在她们房间里用了早餐。
 "
-bucket,"n.桶，水桶；铲斗；一桶的量
+bucket,They were drinking beer by the bucket.,他们狂饮啤酒。,"n.桶，水桶；铲斗；一桶的量
 v.倾盆而下；颠簸着行进
 ","1. They were drinking beer by the bucket.
 他们狂饮啤酒。
 "
-explosive,"adj.爆炸的；爆炸性的；爆发性的
+explosive,"Because the gas is highly explosive, it needs to be kept in high-pressure containers.",由于这种气体极易爆炸，因此需要保存在高压容器内。,"adj.爆炸的；爆炸性的；爆发性的
 n.炸药；爆炸物
 ","1. Because the gas is highly explosive, it needs to be kept in high-pressure containers.
 由于这种气体极易爆炸，因此需要保存在高压容器内。
 2. A small explosive device (= bomb ) was set off outside the UN headquarters today.
 今天有一枚小型炸弹在联合国总部外爆炸。
 "
-digital,"adj.数字的；手指的
+digital,digital TV,数字电视,"adj.数字的；手指的
 n.数字；键
 ","1. digital TV
 数字电视
@@ -2017,70 +2017,70 @@ n.数字；键
 4. digital recording
 数字录音
 "
-belly,"n.腹部；胃；食欲
+belly,She laid her hands on her swollen belly.,她把手放在隆起的肚子上。,"n.腹部；胃；食欲
 v.涨满；鼓起
 ","1. She laid her hands on her swollen belly.
 她把手放在隆起的肚子上。
 "
-prohibit,"v.阻止，禁止
+prohibit,Smoking is strictly prohibited inside the factory.,厂区严禁吸烟。,"v.阻止，禁止
 ","1. Smoking is strictly prohibited inside the factory.
 厂区严禁吸烟。
 "
-lapse,"n.(一时的) 走神，判断错误
+lapse,I had a little lapse of concentration in the middle of the race.,我在比赛中走了一下神。,"n.(一时的) 走神，判断错误
 ","1. I had a little lapse of concentration in the middle of the race.
 我在比赛中走了一下神。
 2. He was a genius and because of it you could accept lapses of taste.
 他是一个天才，因此他偶失得体，人们也可以接受。
 "
-festival,"n.节日；庆祝，纪念活动；欢乐
+festival,Christmas is one of the main festivals in the Christian Calendar.,圣诞节是基督教历的重大节日之一。,"n.节日；庆祝，纪念活动；欢乐
 adj.节日的，喜庆的；快乐的
 ","1. Christmas is one of the main festivals in the Christian Calendar.
 圣诞节是基督教历的重大节日之一。
 "
-appliance,"n.器具；器械；装置
+appliance,"The device most often used to do this is a load balancer, which is an appliance that accepts requests from the outside world and hands them off to the next available application server.",进行这一操作最常用的设备是一个负载均衡器，这是一个从外部接收请求并将它们移交给下一个可用应用程序服务器的装置。,"n.器具；器械；装置
 ","1. The device most often used to do this is a load balancer, which is an appliance that accepts requests from the outside world and hands them off to the next available application server.
 进行这一操作最常用的设备是一个负载均衡器，这是一个从外部接收请求并将它们移交给下一个可用应用程序服务器的装置。
 "
-hail,"n.冰雹；致敬；招呼；一阵
+hail,heavy showers of rain and hail,夹着冰雹的阵阵大雨,"n.冰雹；致敬；招呼；一阵
 v.致敬；招呼；向欢呼；猛发；使像下雹样落下（过去式hailed，过去分词hailed，现在分词hailing，第三人称单数hails）
 int.万岁；欢迎
 ","1. heavy showers of rain and hail
 夹着冰雹的阵阵大雨
 "
-angle,"v.钓鱼；谋取
+angle,You didn’t measure the angle accurately.,你没有量准角度。,"v.钓鱼；谋取
 n.角度，角，方面
 ","1. You didn’t measure the angle accurately.
 你没有量准角度。
 "
-vulgar,"adj.粗俗的；通俗的；本土的
+vulgar,vulgar behaviour,粗俗的行为,"adj.粗俗的；通俗的；本土的
 n.平民，百姓
 ","1. vulgar behaviour
 粗俗的行为
 "
-passenger,"n.旅客；乘客；过路人；碍手碍脚的人
+passenger,Neither the driver nor the passengers were hurt.,司机和乘客均未受伤。,"n.旅客；乘客；过路人；碍手碍脚的人
 ","1. Neither the driver nor the passengers were hurt.
 司机和乘客均未受伤。
 "
-intervene,"v.干涉；调停；插入
+intervene,The army will have to intervene to prevent further fighting.,军队将不得不干预以阻止进一步的战斗。,"v.干涉；调停；插入
 ","1. The army will have to intervene to prevent further fighting.
 军队将不得不干预以阻止进一步的战斗。
 "
-locomotive,"adj.火车头的；运动的；移动的
+locomotive,an increase in locomotive power,运动力的增加,"adj.火车头的；运动的；移动的
 n.机车；火车头
 ","1. an increase in locomotive power
 运动力的增加
 "
-reclaim,"v.开拓；回收再利用；改造某人，使某人悔改
+reclaim,You may be entitled to reclaim some tax.,你也许可以享受一定额度的退税。,"v.开拓；回收再利用；改造某人，使某人悔改
 n.改造，感化；再生胶
 ","1. You may be entitled to reclaim some tax.
 你也许可以享受一定额度的退税。
 "
-irony,"n.讽刺；反语；具有讽刺意味的事
+irony,Life is full of little ironies.,生活中充满了小小的讽刺。,"n.讽刺；反语；具有讽刺意味的事
 adj.铁的；似铁的
 ","1. Life is full of little ironies.
 生活中充满了小小的讽刺。
 "
-prompt,"adj.敏捷的，迅速的；立刻的
+prompt,Prompt action must be taken.,必须立即采取行动。,"adj.敏捷的，迅速的；立刻的
 v.提示；促进；激起；（给演员）提白
 n.提示；付款期限；DOS命令：改变DOS系统提示符的风格
 adv.准时地
@@ -2091,34 +2091,34 @@ adv.准时地
 3. a prompt response
 迅速的答复
 "
-queue,"n.队列；长队；辫子
+queue,You’ll have to join the queue.,你得排队。,"n.队列；长队；辫子
 v.排队；排队等候
 ","1. You’ll have to join the queue.
 你得排队。
 "
-breadth,"n.宽度，幅度；宽宏
+breadth,We need to provide more breadth in the college curriculum.,我们需要扩大学院课程的范围。,"n.宽度，幅度；宽宏
 ","1. We need to provide more breadth in the college curriculum.
 我们需要扩大学院课程的范围。
 "
-surrender,"v.使投降；放弃；交出；听任
+surrender,"Germany surrendered on May 7th, 1945.",德国于 1945 年 5 月 7 日投降。,"v.使投降；放弃；交出；听任
 n.投降；放弃；交出；屈服
 ","1. Germany surrendered on May 7th, 1945.
 德国于 1945 年 5 月 7 日投降。
 2. The terrorists were given ten minutes to surrender.
 恐怖分子被限定在十分钟之内投降。
 "
-earthquake,"n.地震；大动荡
+earthquake,An earthquake measuring 6.1 on the Richter scale struck southern California on June 28.,6月28日加州南部地区发生了里氏6.1级地震。,"n.地震；大动荡
 ","1. An earthquake measuring 6.1 on the Richter scale struck southern California on June 28.
 6月28日加州南部地区发生了里氏6.1级地震。
 2. The city is in an earthquake zone.
 该市位于地震带。
 "
-telegraph,"n.[通信] 电报机，电报
+telegraph,"Once he knew where we were, Lewis telegraphed every few hours.",一知道我们在哪里，刘易斯就每隔几小时发一份电报来。,"n.[通信] 电报机，电报
 v.电汇；流露出；打电报给…
 ","1. Once he knew where we were, Lewis telegraphed every few hours.
 一知道我们在哪里，刘易斯就每隔几小时发一份电报来。
 "
-transistor,"n.晶体管（收音机）
+transistor,Every transistor has at least three electrodes.,每个晶体管至少有三个电极。,"n.晶体管（收音机）
 ","1. Every transistor has at least three electrodes.
 每个晶体管至少有三个电极。
 2. The transistor became the basis of a new invention called the ""computer"" which I suspect those of you reading this may be familiar with.
@@ -2126,23 +2126,23 @@ transistor,"n.晶体管（收音机）
 3. When you got a transistor radio, you could walk around with it, and today you can put your whole record collection in your pocket.
 而当你使用晶体管收音机时，你可以带着它到处走动，时至今日你可以把你收集的唱片装进口袋里。
 "
-hemisphere,"n.半球
+hemisphere,the Northern hemisphere,北半球,"n.半球
 ","1. the Northern hemisphere
 北半球
 "
-electricity,"n.电力；电流；强烈的紧张情绪
+electricity,"The farm was very isolated, but it had electricity.",那个农场非常偏远，但有电力供应。,"n.电力；电流；强烈的紧张情绪
 ","1. The farm was very isolated, but it had electricity.
 那个农场非常偏远，但有电力供应。
 "
-pamphlet,"n.小册子
+pamphlet,a political pamphlet,政治宣传册,"n.小册子
 ","1. a political pamphlet
 政治宣传册
 "
-excursion,"n.偏移；远足；短程旅行；离题；游览，游览团
+excursion,a shopping excursion,购物游,"n.偏移；远足；短程旅行；离题；游览，游览团
 ","1. a shopping excursion
 购物游
 "
-overnight,"adv.通宵；突然；昨晚
+overnight,He became a millionaire overnight.,他一夜之间就成了百万富翁。,"adv.通宵；突然；昨晚
 adj.晚上的；通宵的；前夜的
 n.头天晚上；一夜的逗留
 vt.连夜快递
@@ -2150,7 +2150,7 @@ vi.过一夜
 ","1. He became a millionaire overnight.
 他一夜之间就成了百万富翁。
 "
-rotten,"adj.腐烂的；堕落的；恶臭的；虚弱的；极坏的
+rotten,the smell of rotten eggs,坏鸡蛋的气味,"adj.腐烂的；堕落的；恶臭的；虚弱的；极坏的
 adv.非常
 n.(Rotten)人名；(法、德)罗滕
 ","1. the smell of rotten eggs
@@ -2160,27 +2160,27 @@ n.(Rotten)人名；(法、德)罗滕
 3. The apples went rotten very quickly.
 苹果很快就腐烂了。
 "
-certainty,"n.必然；确实；确实的事情
+certainty,The result is impossible to predict with any degree of certainty .,这一结果完全无法确切预测。,"n.必然；确实；确实的事情
 ","1. The result is impossible to predict with any degree of certainty .
 这一结果完全无法确切预测。
 "
-transient,"adj.短暂的；路过的
+transient,transient fashions,短暂的时尚,"adj.短暂的；路过的
 n.瞬变现象；过往旅客；候鸟
 ","1. transient fashions
 短暂的时尚
 "
-coffee,"n.咖啡；咖啡豆；咖啡色
+coffee,Do you want a cup of coffee?,你要来杯咖啡吗？,"n.咖啡；咖啡豆；咖啡色
 ","1. Do you want a cup of coffee?
 你要来杯咖啡吗？
 2. Do you like your coffee white (= with milk ) or black (= without milk ) ?
 你的咖啡要加奶还是不加奶？
 "
-wreath,"n.花冠；圈状物
+wreath,The prime minister laid a wreath at the war memorial.,首相向战争纪念碑献了花圈。,"n.花冠；圈状物
 v.环绕（等于wreathe）
 ","1. The prime minister laid a wreath at the war memorial.
 首相向战争纪念碑献了花圈。
 "
-poison,"v.污染；使中毒，放毒于；败坏；阻碍
+poison,"She was accused in 1974 of poisoning her second husband, Charles.",1974 年她被控毒死了她的第二任丈夫查尔斯。,"v.污染；使中毒，放毒于；败坏；阻碍
 n.毒药，毒物；酒；有毒害的事物；[助剂] 抑制剂
 adj.有毒的
 ","1. She was accused in 1974 of poisoning her second husband, Charles.
@@ -2188,56 +2188,56 @@ adj.有毒的
 2. He killed several people by poisoning their tea.
 他在茶里下毒杀死了几个人。
 "
-shiver,"n.颤抖，战栗；碎片
+shiver,A shiver ran through (= went through ) me.,我浑身一阵颤抖。,"n.颤抖，战栗；碎片
 v.颤抖；哆嗦；打碎
 ","1. A shiver ran through (= went through ) me.
 我浑身一阵颤抖。
 "
-salesman,"n.推销员；售货员
+salesman,...an insurance salesman.,…一位男保险推销员。,"n.推销员；售货员
 ","1. ...an insurance salesman.
 …一位男保险推销员。
 "
-angel,"n.天使；守护神；善人
+angel,the angel Gabriel,天使加百列,"n.天使；守护神；善人
 vt.出钱支持
 ","1. the angel Gabriel
 天使加百列
 "
-christ,"n.基督；救世主
+christ,,,"n.基督；救世主
 int.天啊！
 ",
-shutter,"n.快门；百叶窗；关闭物；遮板
+shutter,There are a few things you should check before pressing the shutter release.,在按快门之前，有几件事情你应该检查。,"n.快门；百叶窗；关闭物；遮板
 v.为…装百叶窗；以百叶窗遮闭
 ","1. There are a few things you should check before pressing the shutter release.
 在按快门之前，有几件事情你应该检查。
 "
-raid,"n.袭击；突袭；搜捕；抢劫
+raid,a bombing raid,轰炸,"n.袭击；突袭；搜捕；抢劫
 v.对…进行突然袭击
 ","1. a bombing raid
 轰炸
 2. an air raid warning siren
 空袭警报
 "
-weld,"v.焊接；使结合；使成整体
+weld,The new handle will have to be welded on.,新的把手得焊上去。,"v.焊接；使结合；使成整体
 n.焊接；焊接点
 ","1. The new handle will have to be welded on.
 新的把手得焊上去。
 "
-dump,"v.倾倒；倾卸；丢下，卸下；摆脱，扔弃；倾销
+dump,Merrill dumped her suitcase down in the hall.,梅里尔把手提箱扔在门厅里。,"v.倾倒；倾卸；丢下，卸下；摆脱，扔弃；倾销
 n.垃圾场；仓库；无秩序地累积
 ","1. Merrill dumped her suitcase down in the hall.
 梅里尔把手提箱扔在门厅里。
 "
-tube,"n.管；电子管；隧道；电视机
+tube,a tube of toothpaste,一管牙膏,"n.管；电子管；隧道；电视机
 v.使成管状；把…装管；用管输送
 ","1. a tube of toothpaste
 一管牙膏
 "
-compass,"n.指南针，罗盘；圆规
+compass,a map and compass,地图和指南针,"n.指南针，罗盘；圆规
 v.包围
 ","1. a map and compass
 地图和指南针
 "
-shopkeeper,"n.店主，老板
+shopkeeper,The girl had only worked for the shopkeeper for three days when she packed him in.,这姑娘替那店主只干了三天， 就辞职不干了。,"n.店主，老板
 ","1. The girl had only worked for the shopkeeper for three days when she packed him in.
 这姑娘替那店主只干了三天， 就辞职不干了。
 2. In Jermyn Street in London, a shopkeeper anxiously asked who the next president would be.
@@ -2245,11 +2245,11 @@ shopkeeper,"n.店主，老板
 3. I was an unknown foreigner, and could have easily evaded payment with impunity, yet no London shopkeeper ever mistrusted me.
 我是一个没人知道的异乡人，本可以大胆地轻易逃避付款，但是从来没有一个伦敦的店主不信任我。
 "
-facility,"n.设施；设备；容易；灵巧
+facility,What recreational facilities are now available?,什么娱乐设施现在是可用的？,"n.设施；设备；容易；灵巧
 ","1. What recreational facilities are now available?
 什么娱乐设施现在是可用的？
 "
-definite,"adj.一定的；确切的
+definite,It’s impossible for me to give you a definite answer.,我不可能给你明确的答复。,"adj.一定的；确切的
 ","1. It’s impossible for me to give you a definite answer.
 我不可能给你明确的答复。
 2. We need to record sufficient data to enable definite conclusions to be reached.
@@ -2257,7 +2257,7 @@ definite,"adj.一定的；确切的
 3. He’d shown definite signs of resigning himself to the situation.
 他明显表现出安于这种状况的样子。
 "
-dull,"adj.钝的；迟钝的；无趣的；呆滞的；阴暗的
+dull,Life is never dull when Elizabeth is here.,有伊丽莎白在这里生活绝不会无聊。,"adj.钝的；迟钝的；无趣的；呆滞的；阴暗的
 v.使迟钝；使阴暗；缓和
 n.(Dull)人名；(罗、匈)杜尔；(柬)杜；(英)达尔
 ","1. Life is never dull when Elizabeth is here.
@@ -2271,46 +2271,46 @@ n.(Dull)人名；(罗、匈)杜尔；(柬)杜；(英)达尔
 5. Last week we had a hurricane. Never a dull moment running a hotel in the Caribbean (= it’s always interesting or exciting ) .
 上周我们这里刮飓风了，在加勒比海开酒店从来都不会有沉闷的时刻。
 "
-tuck,"v.卷起；挤进；用某物舒适地裹住；使有褶裥；收拢；大口吃；使隐藏
+tuck,,,"v.卷起；挤进；用某物舒适地裹住；使有褶裥；收拢；大口吃；使隐藏
 n.食物；船尾突出部；缝摺；抱膝式跳水；活力；鼓声
 ",
-whistle,"n.口哨；汽笛；呼啸声
+whistle,The lifeguard blew his whistle.,救生员吹响哨子。,"n.口哨；汽笛；呼啸声
 v.吹口哨；鸣汽笛
 ","1. The lifeguard blew his whistle.
 救生员吹响哨子。
 "
-notebook,"n.笔记本，笔记簿；手册
+notebook,He brought out a notebook and pen from his pocket.,他从口袋里掏出了一个笔记本和一支钢笔。,"n.笔记本，笔记簿；手册
 ","1. He brought out a notebook and pen from his pocket.
 他从口袋里掏出了一个笔记本和一支钢笔。
 "
-wolf,"n.狼；色狼；残忍贪婪之人
+wolf,a pack of wolves,一群狼,"n.狼；色狼；残忍贪婪之人
 v.大吃；狼吞虎咽地吃
 ","1. a pack of wolves
 一群狼
 "
-timely,"adj.及时的；适时的
+timely,The fight ended only with the timely arrival of the police.,幸亏警察及时赶到，打斗总算停止。,"adj.及时的；适时的
 adv.及时地；早
 ","1. The fight ended only with the timely arrival of the police.
 幸亏警察及时赶到，打斗总算停止。
 "
-harvest,"n.收获；产量；结果
+harvest,The company is now reaping the harvest of careful planning.,公司现在尝到了精心规划带来的甜头。,"n.收获；产量；结果
 v.收割；得到
 ","1. The company is now reaping the harvest of careful planning.
 公司现在尝到了精心规划带来的甜头。
 "
-fry,"n.鱼苗；油炸食物
+fry,"So when you fry, bake, grill, or roast potatoes you could be generating potentially harmful carcinogens.",因此当你油炸、烘烤、烧烤或者炒土豆时，有可能会产生有害的致癌物。,"n.鱼苗；油炸食物
 v.油炸；油煎
 ","1. So when you fry, bake, grill, or roast potatoes you could be generating potentially harmful carcinogens.
 因此当你油炸、烘烤、烧烤或者炒土豆时，有可能会产生有害的致癌物。
 "
-tension,"n.张力，拉力；紧张，不安；电压
+tension,Tension in the neck muscles can cause headaches.,颈部肌肉紧张会导致头痛。,"n.张力，拉力；紧张，不安；电压
 vt.使紧张；使拉紧
 ","1. Tension in the neck muscles can cause headaches.
 颈部肌肉紧张会导致头痛。
 2. Muscle tension can be a sign of stress.
 肌肉紧张可能是压力大的迹象。
 "
-quarterly,"adj.季度的，按季度的；一年四次的
+quarterly,We publish a quarterly journal.,我们出版一份季刊。,"adj.季度的，按季度的；一年四次的
 adv.按季度，[农] 一季一次地；纵横四分地
 n.季刊
 ","1. We publish a quarterly journal.
@@ -2320,7 +2320,7 @@ n.季刊
 3. It makes no difference whether dividends are paid quarterly or annually.
 红利是按季度还是按年度支付没有区别。
 "
-flash,"v.使闪光；反射
+flash,Lightning flashed overhead.,头顶上电光闪闪。,"v.使闪光；反射
 n.闪光，闪现；一瞬间
 adj.闪光的，火速的
 ","1. Lightning flashed overhead.
@@ -2328,14 +2328,14 @@ adj.闪光的，火速的
 2. Red warning lights flashed on and off (= shone for a short time and then stopped shining ) .
 红色警告灯一闪一闪。
 "
-marble,"n.大理石；大理石制品；弹珠
+marble,The columns were of white marble.,柱子是白色的大理石。,"n.大理石；大理石制品；弹珠
 adj.大理石的；冷酷无情的
 ","1. The columns were of white marble.
 柱子是白色的大理石。
 2. a marble statue
 大理石雕像
 "
-angry,"adj.生气的；愤怒的；狂暴的；（伤口等）发炎的
+angry,I was angry because he hadn’t told me his plans.,我很生气，因为他没有告诉我他的计划。,"adj.生气的；愤怒的；狂暴的；（伤口等）发炎的
 ","1. I was angry because he hadn’t told me his plans.
 我很生气，因为他没有告诉我他的计划。
 2. He was beginning to get angry .
@@ -2347,23 +2347,23 @@ angry,"adj.生气的；愤怒的；狂暴的；（伤口等）发炎的
 5. Jesse laughed, which made me even angrier .
 杰西笑了起来，这令我更加恼火。
 "
-distinct,"adj.明显的；独特的；清楚的；有区别的
+distinct,The outline of the ship became more distinct.,船的轮廓变得更加清晰了。,"adj.明显的；独特的；清楚的；有区别的
 ","1. The outline of the ship became more distinct.
 船的轮廓变得更加清晰了。
 "
-uneasy,"adj.不舒服的；心神不安的；不稳定的
+uneasy,She eventually fell into an uneasy sleep.,她终于睡着了，但睡得并不踏实。,"adj.不舒服的；心神不安的；不稳定的
 ","1. She eventually fell into an uneasy sleep.
 她终于睡着了，但睡得并不踏实。
 "
-opt,"v.选择
+opt,Depending on your circumstances you can opt for one method or the other.,根据自己的情况，你可以选择这种或那种方法。,"v.选择
 ","1. Depending on your circumstances you can opt for one method or the other.
 根据自己的情况，你可以选择这种或那种方法。
 "
-satire,"n.讽刺；讽刺文学，讽刺作品
+satire,the characteristic use of satire in Jonson’s work,琼森作品中讽刺手法的独到运用,"n.讽刺；讽刺文学，讽刺作品
 ","1. the characteristic use of satire in Jonson’s work
 琼森作品中讽刺手法的独到运用
 "
-glad,"adj.高兴的；乐意的；令人高兴的；灿烂美丽的
+glad,We’re so glad you came.,你来了我们真高兴。,"adj.高兴的；乐意的；令人高兴的；灿烂美丽的
 vt.使高兴
 n.(Glad)人名；(塞、瑞典)格拉德；(英)格莱德；(法、挪)格拉
 ","1. We’re so glad you came.
@@ -2371,48 +2371,48 @@ n.(Glad)人名；(塞、瑞典)格拉德；(英)格莱德；(法、挪)格拉
 2. ‘I’ve decided to accept the job.’ ‘I’m glad.’
 “我决定接受这份工作。”“我很高兴。”
 "
-grass,"n.草；草地，草坪
+grass,I walked across the grass.,我走在草地上。,"n.草；草地，草坪
 v.放牧；使……长满草；使……吃草
 ","1. I walked across the grass.
 我走在草地上。
 2. Keep off the grass.
 请勿践踏草地。
 "
-locker,"n.柜，箱；上锁的人；有锁的橱柜；锁扣装置；有锁的存物柜
+locker,a meat locker,肉类冷藏间,"n.柜，箱；上锁的人；有锁的橱柜；锁扣装置；有锁的存物柜
 ","1. a meat locker
 肉类冷藏间
 "
-occasional,"adj.偶然的；临时的；特殊场合的
+occasional,I've had occasional mild headaches all my life.,我此生一直有偶尔的轻微头疼。,"adj.偶然的；临时的；特殊场合的
 ","1. I've had occasional mild headaches all my life.
 我此生一直有偶尔的轻微头疼。
 "
-wholesome,"adj.健全的；有益健康的；合乎卫生的；审慎的
+wholesome,good wholesome fun,健康有益的娱乐,"adj.健全的；有益健康的；合乎卫生的；审慎的
 ","1. good wholesome fun
 健康有益的娱乐
 "
-hunger,"n.饿，饥饿；渴望
+hunger,Try to satisfy your hunger by eating some fruit.,吃些水果充充饥吧。,"n.饿，饥饿；渴望
 v.渴望；挨饿
 ","1. Try to satisfy your hunger by eating some fruit.
 吃些水果充充饥吧。
 2. But Jules was not eager for classroom learning, he hungered for adventure.
 但是朱尔斯并不热衷于课堂学习，他渴望冒险。
 "
-violate,"v.违反；侵犯，妨碍；亵渎
+violate,34 protesters were arrested for violating criminal law.,34名抗议者因违反刑法而被逮捕。,"v.违反；侵犯，妨碍；亵渎
 ","1. 34 protesters were arrested for violating criminal law.
 34名抗议者因违反刑法而被逮捕。
 2. regimes that violate human rights
 侵犯人权的政权
 "
-recycle,"v.使再循环；使…重新利用
+recycle,The fashion world just keeps recycling old ideas.,时装界就是不停地翻新旧观念。,"v.使再循环；使…重新利用
 n.再生；再循环；重复利用
 ","1. The fashion world just keeps recycling old ideas.
 时装界就是不停地翻新旧观念。
 "
-container,"n.集装箱；容器
+container,ice cream in plastic containers,塑料容器里的冰激凌,"n.集装箱；容器
 ","1. ice cream in plastic containers
 塑料容器里的冰激凌
 "
-cube,"n.立方；立方体；骰子
+cube,a sugar cube,一块方糖,"n.立方；立方体；骰子
 v.使成立方形；使自乘二次；量…的体积
 ","1. a sugar cube
 一块方糖
@@ -2421,37 +2421,37 @@ v.使成立方形；使自乘二次；量…的体积
 3. Cut the meat into small cubes.
 把肉切成丁。
 "
-flare,"v.使闪耀；使张开；用发光信号发出；使外倾
+flare,Tempers flared and harsh words were exchanged.,人们大动肝火，对骂起来。,"v.使闪耀；使张开；用发光信号发出；使外倾
 n.加剧，恶化；底部展开；（鼻孔）张开的意思；闪光，闪耀；耀斑；爆发；照明弹
 ","1. Tempers flared and harsh words were exchanged.
 人们大动肝火，对骂起来。
 "
-ore,"n.矿；矿石
+ore,iron ore,铁矿石,"n.矿；矿石
 ","1. iron ore
 铁矿石
 2. veins of rich ore
 富矿脉
 "
-cargo,"n.货物，船货
+cargo,a cargo plane,货机,"n.货物，船货
 ","1. a cargo plane
 货机
 "
-particle,"n.颗粒；[物] 质点；极小量；小品词
+particle,dust particles,尘埃,"n.颗粒；[物] 质点；极小量；小品词
 ","1. dust particles
 尘埃
 "
-cloth,"n.布；织物；桌布
+cloth,Clean the surface with a damp cloth.,用一块湿布清洗表面。,"n.布；织物；桌布
 adj.布制的
 ","1. Clean the surface with a damp cloth.
 用一块湿布清洗表面。
 "
-feudal,"adj.封建制度的；领地的；世仇的
+feudal,the feudal system,封建制度,"adj.封建制度的；领地的；世仇的
 ","1. the feudal system
 封建制度
 2. feudal society
 封建社会
 "
-velocity,"n.【物】速度
+velocity,the velocity of light,光速,"n.【物】速度
 ","1. the velocity of light
 光速
 2. The speedboat reached a velocity of 120 mph.
@@ -2459,7 +2459,7 @@ velocity,"n.【物】速度
 3. a high velocity bullet
 高速子弹
 "
-simplify,"v.简化；使单纯；使简易
+simplify,an attempt to simplify the tax system,简化税制的尝试,"v.简化；使单纯；使简易
 ","1. an attempt to simplify the tax system
 简化税制的尝试
 2. The law needs to be simplified.
@@ -2467,11 +2467,11 @@ simplify,"v.简化；使单纯；使简易
 3. a simplified version of the game
 这个游戏的简化版
 "
-gigantic,"adj.巨大的，庞大的
+gigantic,a gigantic skyscraper,摩天大楼,"adj.巨大的，庞大的
 ","1. a gigantic skyscraper
 摩天大楼
 "
-desert,"v.遗弃；放弃；逃跑
+desert,Helen was deserted by her husband.,海伦被丈夫遗弃了。,"v.遗弃；放弃；逃跑
 n.沙漠；荒原；应得的赏罚
 adj.沙漠的；荒凉的；不毛的
 ","1. Helen was deserted by her husband.
@@ -2481,7 +2481,7 @@ adj.沙漠的；荒凉的；不毛的
 3. The price rise caused many readers to desert the magazine.
 价格上涨导致许多读者放弃了这本杂志。
 "
-miracle,"n.奇迹，奇迹般的人或物；惊人的事例
+miracle,It’s a miracle you weren’t killed!,你没有死真是奇迹！,"n.奇迹，奇迹般的人或物；惊人的事例
 ","1. It’s a miracle you weren’t killed!
 你没有死真是奇迹！
 2. By some miracle, we managed to catch the plane.
@@ -2491,7 +2491,7 @@ miracle,"n.奇迹，奇迹般的人或物；惊人的事例
 4. She’s our miracle baby.
 她是我们的奇迹宝宝。
 "
-progressive,"adj.进步的；先进的
+progressive,a progressive administration,进步的政府,"adj.进步的；先进的
 n.改革论者；进步分子
 ","1. a progressive administration
 进步的政府
@@ -2500,12 +2500,12 @@ n.改革论者；进步分子
 3. The Republicans were deeply split between progressives and conservatives.
 共和党进步派和保守派之间分歧很大。
 "
-crystal,"n.结晶，晶体；水晶；水晶饰品
+crystal,a set of six crystal glasses,六件套水晶玻璃杯,"n.结晶，晶体；水晶；水晶饰品
 adj.水晶的；透明的，清澈的
 ","1. a set of six crystal glasses
 六件套水晶玻璃杯
 "
-saint,"n.圣人；圣徒；道德崇高的人
+saint,Saint Patrick,圣帕特里克,"n.圣人；圣徒；道德崇高的人
 adj.神圣的
 v.成为圣徒
 ","1. Saint Patrick
@@ -2513,44 +2513,44 @@ v.成为圣徒
 2. Statues of saints lined the walls of the church.
 教堂的墙边立着一排圣徒像。
 "
-secretary,"n.秘书；书记；部长；大臣
+secretary,My secretary will fax you all the details.,我的秘书会把所有的细节发传真给你。,"n.秘书；书记；部长；大臣
 ","1. My secretary will fax you all the details.
 我的秘书会把所有的细节发传真给你。
 "
-snake,"n.蛇；阴险的人
+snake,A snake slithered across our path.,一条蛇蜿蜒爬过我们的小路。,"n.蛇；阴险的人
 v.迂回前进
 ","1. A snake slithered across our path.
 一条蛇蜿蜒爬过我们的小路。
 "
-distract,"v.转移；分心
+distract,Try not to distract the other students.,尽量不要让其他学生分心。,"v.转移；分心
 ","1. Try not to distract the other students.
 尽量不要让其他学生分心。
 "
-layman,"n.外行；门外汉；俗人；一般信徒
+layman,To the layman (= laymen in general ) all these plants look pretty similar.,对外行的人来说，这些植物看起来都很相似。,"n.外行；门外汉；俗人；一般信徒
 ","1. To the layman (= laymen in general ) all these plants look pretty similar.
 对外行的人来说，这些植物看起来都很相似。
 2. If you don’t understand what the doctor says, ask to have it explained in layman’s terms (= in simple language ).
 如果你听不懂医生的话，就请他用通俗易懂的语言来解释一下。
 "
-preclude,"v.排除；妨碍；阻止
+preclude,rules that preclude experimentation in teaching methods,禁止进行教学方法试验的规定,"v.排除；妨碍；阻止
 ","1. rules that preclude experimentation in teaching methods
 禁止进行教学方法试验的规定
 "
-rack,"n.[机] 齿条；架子；拷问台
+rack,a wine rack,酒架,"n.[机] 齿条；架子；拷问台
 v.变形；随风飘；小步跑
 ","1. a wine rack
 酒架
 2. a magazine rack
 杂志架
 "
-twinkle,"v.闪烁；发亮
+twinkle,stars twinkling in the sky,天空中闪烁的星星,"v.闪烁；发亮
 n.闪烁
 ","1. stars twinkling in the sky
 天空中闪烁的星星
 2. I saw lights twinkling in the little town below us.
 我看到我们下面的小镇灯火闪烁。
 "
-silly,"adj.愚蠢的；不明事理的；没头脑的
+silly,Stop asking silly questions.,别再问傻问题了。,"adj.愚蠢的；不明事理的；没头脑的
 n.傻瓜
 ","1. Stop asking silly questions.
 别再问傻问题了。
@@ -2561,11 +2561,11 @@ n.傻瓜
 4. ‘Shall we go for a walk?’ ‘ Don’t be silly , it’s dark.’
 “我们去散步吧？”“别犯傻了，天都黑了。”
 "
-misfortune,"n.不幸；灾祸，灾难
+misfortune,It seems the banks always profit from farmers’ misfortunes.,银行似乎总是从农民的不幸中获益。,"n.不幸；灾祸，灾难
 ","1. It seems the banks always profit from farmers’ misfortunes.
 银行似乎总是从农民的不幸中获益。
 "
-grand,"adj.宏伟的；豪华的；极重要的
+grand,a grand country house,豪华的乡间大宅,"adj.宏伟的；豪华的；极重要的
 n.大钢琴；一千美元
 ","1. a grand country house
 豪华的乡间大宅
@@ -2574,12 +2574,12 @@ n.大钢琴；一千美元
 3. New Yorkers build on a grand scale.
 纽约人喜欢建高楼大厦。
 "
-duck,"n.鸭子；鸭肉；（英）宝贝儿；零分
+duck,roast duck with orange sauce,烤鸭配橘子酱,"n.鸭子；鸭肉；（英）宝贝儿；零分
 v.闪避；没入水中
 ","1. roast duck with orange sauce
 烤鸭配橘子酱
 "
-flu,"n.流感
+flu,Steven’s still in bed with flu .,史蒂文患了流感，仍卧病在床。,"n.流感
 ","1. Steven’s still in bed with flu .
 史蒂文患了流感，仍卧病在床。
 2. She’s got the flu .
@@ -2589,34 +2589,34 @@ flu,"n.流感
 4. Doctors now fear a flu epidemic .
 医生现在担心会出现流感大爆发。
 "
-cattle,"n.牛；牲畜（骂人的话）；家畜；无价值的人
+cattle,herds of cattle,成群的牛,"n.牛；牲畜（骂人的话）；家畜；无价值的人
 ","1. herds of cattle
 成群的牛
 2. a cattle rancher
 牧牛场场主
 "
-tune,"n.曲调；和谐；心情
+tune,That’s a nice tune.,那曲调很美。,"n.曲调；和谐；心情
 v.调整；使一致；为…调音
 ","1. That’s a nice tune.
 那曲调很美。
 2. She sang some old classics and a few new tunes.
 她唱了几首经典老歌和一些新曲。
 "
-centimetre,"n.厘米；公分
+centimetre,"...a tiny fossil plant, only a few centimetres high.",…一块小小的植物化石，只有几厘米高。,"n.厘米；公分
 ","1. ...a tiny fossil plant, only a few centimetres high.
 …一块小小的植物化石，只有几厘米高。
 "
-clerk,"n.职员，办事员；店员；书记；记账员；<古>牧师，教士
+clerk,a clerk in a commercial firm,一家商行的文员,"n.职员，办事员；店员；书记；记账员；<古>牧师，教士
 v.当销售员，当店员；当职员
 ","1. a clerk in a commercial firm
 一家商行的文员
 "
-stitch,"n.针脚，线迹；一针
+stitch,He had to have ten stitches in his head.,他头上不得不缝了十针。,"n.针脚，线迹；一针
 v.缝，缝合
 ","1. He had to have ten stitches in his head.
 他头上不得不缝了十针。
 "
-zebra,"n.[脊椎] 斑马
+zebra,The neck of the zebra was nipped by a lion.,狮子咬断了那头斑马的脖子。,"n.[脊椎] 斑马
 adj.有斑纹的
 ","1. The neck of the zebra was nipped by a lion.
 狮子咬断了那头斑马的脖子。
@@ -2625,47 +2625,47 @@ adj.有斑纹的
 3. Sixty acres of woods and ponds are home to camels, zebra, bison, water buffalo, ostrich and antelope.
 六十英亩的森林和池塘是骆驼，斑马，野牛，水牛，鸵鸟和羚羊的家园。
 "
-campus,"n.（大学）校园；大学，大学生活；校园内的草地
+campus,a beautiful campus in New England,新英格兰的一个美丽校园,"n.（大学）校园；大学，大学生活；校园内的草地
 ","1. a beautiful campus in New England
 新英格兰的一个美丽校园
 "
-clay,"n.[土壤] 粘土；泥土；肉体；似黏土的东西
+clay,Bricks are made from clay.,砖是用黏土制成的。,"n.[土壤] 粘土；泥土；肉体；似黏土的东西
 vt.用黏土处理
 ","1. Bricks are made from clay.
 砖是用黏土制成的。
 "
-ride,"v.骑马；乘车；依靠；漂浮
+ride,She learned to ride when she was seven.,她七岁时学会了骑马。,"v.骑马；乘车；依靠；漂浮
 n.骑；乘坐；交通工具；可供骑行的路；（乘坐汽车等的）旅行；乘骑；（乘车或骑车的）短途旅程；供乘骑的游乐设施
 ","1. She learned to ride when she was seven.
 她七岁时学会了骑马。
 2. He was riding a large grey mare.
 他骑着一匹灰色的大母马。
 "
-intention,"n.意图；目的；意向；愈合
+intention,They went into town with the intention of visiting the library.,他们进了城，打算参观图书馆。,"n.意图；目的；意向；愈合
 ","1. They went into town with the intention of visiting the library.
 他们进了城，打算参观图书馆。
 "
-alloy,"v.使成合金；使减低成色
+alloy,Brass is an alloy of copper and zinc.,黄铜是铜和锌的合金。,"v.使成合金；使减低成色
 n.合金
 ","1. Brass is an alloy of copper and zinc.
 黄铜是铜和锌的合金。
 "
-paralyze,"v.使麻痹；使瘫痪
+paralyze,You can bet that would truly paralyze the flow of credit: Does anyone believe Washington can manage banks?,你可以打赌，这会使流动的信贷真正限于瘫痪：真有人相信华盛顿可以经营银行吗？,"v.使麻痹；使瘫痪
 ","1. You can bet that would truly paralyze the flow of credit: Does anyone believe Washington can manage banks?
 你可以打赌，这会使流动的信贷真正限于瘫痪：真有人相信华盛顿可以经营银行吗？
 "
-fix,"v.使固定；修理；安装；准备
+fix,He’s outside fixing the brakes on the car.,他在外面修理汽车的刹车。,"v.使固定；修理；安装；准备
 n.困境；方位；贿赂
 ","1. He’s outside fixing the brakes on the car.
 他在外面修理汽车的刹车。
 2. Ellis was able to quickly find and fix the problem.
 埃利斯马上就找到并解决了问题。
 "
-notify,"v.通告，通知；公布
+notify,The skipper notified the coastguard of the tragedy.,船长通知了海岸警卫队这一灾难。,"v.通告，通知；公布
 ","1. The skipper notified the coastguard of the tragedy.
 船长通知了海岸警卫队这一灾难。
 "
-fine,"adj.好的；优良的；细小的，精美的；健康的；晴朗的
+fine,"‘How are you?’ ‘Fine, thanks, how are you?’",“你好吗？”“很好，谢谢，你呢？”,"adj.好的；优良的；细小的，精美的；健康的；晴朗的
 n.罚款
 v.罚款；澄清
 adv.很好地；精巧地
@@ -2674,15 +2674,15 @@ adv.很好地；精巧地
 2. I feel fine , really.
 我感觉很好，真的。
 "
-passion,"n.激情；热情；酷爱；盛怒
+passion,The issue arouses strong passions .,那件事激起了人们强烈的情绪。,"n.激情；热情；酷爱；盛怒
 ","1. The issue arouses strong passions .
 那件事激起了人们强烈的情绪。
 "
-wheat,"n.小麦；小麦色
+wheat,a field of wheat,小麦地,"n.小麦；小麦色
 ","1. a field of wheat
 小麦地
 "
-rice,"n.稻；米饭
+rice,a tasty sauce served with rice or pasta,配米饭或意面的美味酱汁,"n.稻；米饭
 v.把…捣成米糊状
 ","1. a tasty sauce served with rice or pasta
 配米饭或意面的美味酱汁
@@ -2693,7 +2693,7 @@ v.把…捣成米糊状
 4. a few grains of rice
 几粒大米
 "
-savage,"adj.野蛮的；残酷的；狂怒的；荒凉的
+savage,a savage dog,一条凶猛的狗,"adj.野蛮的；残酷的；狂怒的；荒凉的
 n.未开化的人；粗鲁的人；残暴成性的人
 v.乱咬；粗暴的对待
 ","1. a savage dog
@@ -2701,11 +2701,11 @@ v.乱咬；粗暴的对待
 2. a savage murder
 凶残的谋杀
 "
-cinema,"n.电影；电影院；电影业，电影制作术
+cinema,It’s on at the local cinema.,此片正在当地影院上映。,"n.电影；电影院；电影业，电影制作术
 ","1. It’s on at the local cinema.
 此片正在当地影院上映。
 "
-millimeter,"n.[计量] 毫米
+millimeter,A micrometer is one thousandth of one millimeter.,一微米是一毫米的千分之一。,"n.[计量] 毫米
 ","1. A micrometer is one thousandth of one millimeter.
 一微米是一毫米的千分之一。
 2. We're also good at seeing big clouds of small particles of dust. ... But in between dust grains up to a millimeter in size and the smallest planets we can see, we're blind.
@@ -2713,7 +2713,7 @@ millimeter,"n.[计量] 毫米
 3. On average these mosses grow at the glacial speed of 1 millimeter per year—and some of the turfs are meters thick.
 平均来说，这些苔藓以每年大约1毫米的极慢速度生长，而某些草皮有数米厚。
 "
-clap,"v.鼓掌，拍手；啪地关上
+clap,"One man began to clap, and others joined in.",一个人鼓起了掌，其他人也跟着鼓掌。,"v.鼓掌，拍手；啪地关上
 n.鼓掌；拍手声
 ","1. One man began to clap, and others joined in.
 一个人鼓起了掌，其他人也跟着鼓掌。
@@ -2722,51 +2722,51 @@ n.鼓掌；拍手声
 3. The audience clapped politely but without much enthusiasm.
 观众礼貌地鼓了掌，但并不热烈。
 "
-claw,"n.爪；螯，钳；爪形器具
+claw,The cat dug his claws into my leg.,猫的爪子抓进了我的腿中。,"n.爪；螯，钳；爪形器具
 v.用爪抓（或挖）
 ","1. The cat dug his claws into my leg.
 猫的爪子抓进了我的腿中。
 2. lobster claws
 龙虾的螯
 "
-portray,"v.描绘；扮演
+portray,His most famous painting portrayed the death of Nelson.,他最著名的画作描绘的是纳尔逊之死。,"v.描绘；扮演
 ","1. His most famous painting portrayed the death of Nelson.
 他最著名的画作描绘的是纳尔逊之死。
 2. Religion was portrayed in a negative way.
 对宗教的描写是负面的。
 "
-librarian,"n.图书馆员；图书管理员
+librarian,The new librarian is a friend of mine.,这位新来的图书管理员是我的朋友。,"n.图书馆员；图书管理员
 ","1. The new librarian is a friend of mine.
 这位新来的图书管理员是我的朋友。
 "
-horn,"n.喇叭，号角；角
+horn,He sounded the car horn.,他按响了汽车喇叭。,"n.喇叭，号角；角
 v.装角于
 ","1. He sounded the car horn.
 他按响了汽车喇叭。
 "
-incorporate,"v.包含，吸收；体现；把……合并
+incorporate,The new cars will incorporate a number of major improvements.,这种新型汽车将包含许多重大的改进。,"v.包含，吸收；体现；把……合并
 adj.合并的；一体化的；组成公司的
 ","1. The new cars will incorporate a number of major improvements.
 这种新型汽车将包含许多重大的改进。
 "
-hose,"n.软管；长筒袜；男性穿的紧身裤
+hose,Water in the engine compartment is sucked away by a hose.,发动机舱里的水由一条软管吸走。,"n.软管；长筒袜；男性穿的紧身裤
 v.用软管浇水；痛打
 ","1. Water in the engine compartment is sucked away by a hose.
 发动机舱里的水由一条软管吸走。
 "
-barn,"n.谷仓；畜棚；车库；靶（核反应截面单位）
+barn,,,"n.谷仓；畜棚；车库；靶（核反应截面单位）
 vt.把…贮存入仓
 ",
-auxiliary,"n.助动词；辅助者，辅助物；附属机构
+auxiliary,a nursing auxiliary,护理辅助人员,"n.助动词；辅助者，辅助物；附属机构
 adj.辅助的；副的；附加的
 ","1. a nursing auxiliary
 护理辅助人员
 "
-spacecraft,"n.[航] 宇宙飞船，航天器
+spacecraft,...the world's largest and most expensive unmanned spacecraft.,…世界上最大、最贵的无人航天器。,"n.[航] 宇宙飞船，航天器
 ","1. ...the world's largest and most expensive unmanned spacecraft.
 …世界上最大、最贵的无人航天器。
 "
-bare,"adj.空的；赤裸的，无遮蔽的
+bare,a ragged child with bare feet,一个衣衫褴褛、光着脚的小孩,"adj.空的；赤裸的，无遮蔽的
 v.露出，使赤裸
 n.(Bare)人名；(英)贝尔
 ","1. a ragged child with bare feet
@@ -2774,22 +2774,22 @@ n.(Bare)人名；(英)贝尔
 2. She felt the sun warm on her bare arms.
 她感觉到阳光照在她裸露双臂上的暖意。
 "
-condense,"v.浓缩；凝结
+condense,the mist which condensed on every cold surface,每个冰冷的表面上凝结的水汽,"v.浓缩；凝结
 ","1. the mist which condensed on every cold surface
 每个冰冷的表面上凝结的水汽
 "
-thunder,"n.雷；轰隆声；恐吓
+thunder,We were woken in the night by thunder.,晚上我们被雷声惊醒。,"n.雷；轰隆声；恐吓
 v.打雷；怒喝
 ","1. We were woken in the night by thunder.
 晚上我们被雷声惊醒。
 "
-microphone,"n.扩音器，麦克风
+microphone,She spoke confidently into the microphone.,她自信地对着麦克风说话。,"n.扩音器，麦克风
 ","1. She spoke confidently into the microphone.
 她自信地对着麦克风说话。
 2. They searched the room for hidden microphones.
 他们在屋里翻找隐藏的话筒。
 "
-duplicate,"v.复制；使加倍
+duplicate,New copies of the form can be duplicated from a master copy.,可以用原件来复制新的表格。,"v.复制；使加倍
 n.副本；复制品
 adj.复制的；二重的
 ","1. New copies of the form can be duplicated from a master copy.
@@ -2797,7 +2797,7 @@ adj.复制的；二重的
 2. The video was duplicated illegally.
 这盘录像带是非法拷贝的。
 "
-maths,"n.数学（等于mathematics）
+maths,the new maths teacher,新来的数学老师,"n.数学（等于mathematics）
 ","1. the new maths teacher
 新来的数学老师
 2. maths lessons
@@ -2805,7 +2805,7 @@ maths,"n.数学（等于mathematics）
 3. She got top marks in maths and chemistry.
 她数学和化学得了最高分。
 "
-neutral,"adj.中立的，中性的；中立国的；非彩色的
+neutral,I always tried to remain neutral when they started arguing.,他们争论起来的时候我总是努力保持中立。,"adj.中立的，中性的；中立国的；非彩色的
 n.中立国；中立者；非彩色；齿轮的空档
 ","1. I always tried to remain neutral when they started arguing.
 他们争论起来的时候我总是努力保持中立。
@@ -2814,134 +2814,134 @@ n.中立国；中立者；非彩色；齿轮的空档
 3. The British government acted as a neutral observer during the talks.
 英国政府在会谈中扮演了中立观察员的角色。
 "
-worship,"n.崇拜；礼拜；尊敬
+worship,...the worship of the ancient Roman gods.,…对古罗马众神的敬奉。,"n.崇拜；礼拜；尊敬
 v.崇拜；尊敬；爱慕
 ","1. ...the worship of the ancient Roman gods.
 …对古罗马众神的敬奉。
 "
-stationery,"n.文具；信纸
+stationery,a letter on hotel stationery,用酒店信纸写的信,"n.文具；信纸
 ","1. a letter on hotel stationery
 用酒店信纸写的信
 "
-divert,"v.转移；使…欢娱；使…转向
+divert,Remember to divert your phone when you are out of the office.,你不在办公室的时候要记得设定电话转移。,"v.转移；使…欢娱；使…转向
 n.(Divert)人名；(法)迪韦尔
 ","1. Remember to divert your phone when you are out of the office.
 你不在办公室的时候要记得设定电话转移。
 "
-liner,"n.班轮，班机；衬垫；画线者
+liner,a dustbin liner,垃圾袋,"n.班轮，班机；衬垫；画线者
 ","1. a dustbin liner
 垃圾袋
 2. nappy liners
 尿布衬垫
 "
-linen,"n.亚麻布，亚麻线；亚麻制品
+linen,a linen jacket,亚麻布夹克,"n.亚麻布，亚麻线；亚麻制品
 adj.亚麻的；亚麻布制的
 ","1. a linen jacket
 亚麻布夹克
 "
-queer,"adj.奇怪的；同性恋的；不舒服的；心智不平衡的
+queer,She gave a queer laugh.,她古怪地笑了笑。,"adj.奇怪的；同性恋的；不舒服的；心智不平衡的
 v.搞糟；使陷于不利地位
 n.同性恋者；怪人；伪造的货币
 ","1. She gave a queer laugh.
 她古怪地笑了笑。
 "
-practise,"v.练习，实践；实施，实行；从事
+practise,They moved the furniture back to practise their dance routine.,他们把家具往后挪以便练习舞蹈动作。,"v.练习，实践；实施，实行；从事
 ","1. They moved the furniture back to practise their dance routine.
 他们把家具往后挪以便练习舞蹈动作。
 2. It gives students the opportunity to practice their speaking skills.
 这给学生提供了锻炼口才的机会。
 "
-butcher,"v.屠杀
+butcher,"Pigs were butchered, hams were hung to dry from the ceiling.",猪被宰杀了，火腿吊在屋顶下风干。,"v.屠杀
 n.屠夫
 ","1. Pigs were butchered, hams were hung to dry from the ceiling.
 猪被宰杀了，火腿吊在屋顶下风干。
 "
-beware,"v.当心，小心
+beware,Police warned drivers to beware.,警方提醒司机小心行驶。,"v.当心，小心
 ","1. Police warned drivers to beware.
 警方提醒司机小心行驶。
 "
-jargon,"n.行话，术语；黄锆石
+jargon,Keep it simple and avoid the use of jargon.,简单点，避免使用术语。,"n.行话，术语；黄锆石
 ","1. Keep it simple and avoid the use of jargon.
 简单点，避免使用术语。
 "
-bath,"n.沐浴；浴室；浴盆
+bath,"After a week of camping, I really needed a bath.",我露营了一个星期，实在得洗个澡了。,"n.沐浴；浴室；浴盆
 v.洗澡
 ","1. After a week of camping, I really needed a bath.
 我露营了一个星期，实在得洗个澡了。
 2. I’ll give the children their bath (=  wash them in a bath  ) .
 我要给孩子们洗澡了。
 "
-trousers,"n.裤子，长裤
+trousers,His trousers were slightly too short.,他的裤子有点短。,"n.裤子，长裤
 ","1. His trousers were slightly too short.
 他的裤子有点短。
 2. I need a new pair of trousers for work.
 我需要一条上班穿的新裤子。
 "
-tilt,"v.倾斜；翘起；以言词或文字抨击
+tilt,My mother tilted her head and smiled.,我妈妈歪着头笑了。,"v.倾斜；翘起；以言词或文字抨击
 n.倾斜
 ","1. My mother tilted her head and smiled.
 我妈妈歪着头笑了。
 2. Ned’s mouth tilted upwards slightly at the corners.
 内德的嘴角微微翘起。
 "
-salvation,"n.拯救；救助
+salvation,The church's message of salvation has changed the lives of many.,这个教会的灵魂得救的训诫已经改变了很多人的一生。,"n.拯救；救助
 ","1. The church's message of salvation has changed the lives of many.
 这个教会的灵魂得救的训诫已经改变了很多人的一生。
 "
-nerve,"n.神经；勇气；[植] 叶脉
+nerve,a condition which affects the nerves in the back,影响背部神经的疾病,"n.神经；勇气；[植] 叶脉
 v.鼓起勇气
 ","1. a condition which affects the nerves in the back
 影响背部神经的疾病
 "
-edible,"adj.可食用的
+edible,"These berries are edible, but those are poisonous.",这些浆果可以吃，但那些有毒。,"adj.可食用的
 n.食品；食物
 ","1. These berries are edible, but those are poisonous.
 这些浆果可以吃，但那些有毒。
 "
-reproach,"n.责备；耻辱
+reproach,He argued that the reproaches were unfair.,他争辩说这些批评不公正。,"n.责备；耻辱
 v.责备；申斥
 ","1. He argued that the reproaches were unfair.
 他争辩说这些批评不公正。
 "
-tile,"n.瓷砖，瓦片
+tile,bathroom tiles,浴室瓷砖,"n.瓷砖，瓦片
 v.铺以瓦；铺以瓷砖
 ","1. bathroom tiles
 浴室瓷砖
 "
-aunt,"n.阿姨；姑妈；伯母；舅妈
+aunt,Aunt Mary,玛丽姑妈,"n.阿姨；姑妈；伯母；舅妈
 ","1. Aunt Mary
 玛丽姑妈
 "
-gratitude,"n.感谢（的心情）；感激
+gratitude,Tears of gratitude filled her eyes.,她眼里充满感激的泪水。,"n.感谢（的心情）；感激
 ","1. Tears of gratitude filled her eyes.
 她眼里充满感激的泪水。
 "
-psychiatry,"n.精神病学；精神病治疗法
+psychiatry,,,"n.精神病学；精神病治疗法
 ",
-conviction,"n.定罪；确信；证明有罪；确信，坚定的信仰
+conviction,"It was a reasonable explanation, but his voice lacked conviction .",这解释合情合理，只是他的语气不坚定。,"n.定罪；确信；证明有罪；确信，坚定的信仰
 ","1. It was a reasonable explanation, but his voice lacked conviction .
 这解释合情合理，只是他的语气不坚定。
 "
-ditch,"v.在…上掘沟；把…开入沟里；丢弃
+ditch,The government has ditched plans to privatise the prison.,政府放弃了监狱私有化的计划。,"v.在…上掘沟；把…开入沟里；丢弃
 n.沟渠；壕沟
 ","1. The government has ditched plans to privatise the prison.
 政府放弃了监狱私有化的计划。
 "
-qualify,"v.限制；使具有资格；证明…合格
+qualify,Free school lunches are given to children who qualify.,符合条件的儿童可获得免费的学生午餐。,"v.限制；使具有资格；证明…合格
 ","1. Free school lunches are given to children who qualify.
 符合条件的儿童可获得免费的学生午餐。
 "
-bounce,"n.跳；弹力；活力
+bounce,Try to catch the ball on the second bounce.,尽量在球第二次弹起时接住。,"n.跳；弹力；活力
 v.弹跳；使弹起
 ","1. Try to catch the ball on the second bounce.
 尽量在球第二次弹起时接住。
 "
-cock,"n.公鸡；龙头；雄鸟；头目
+cock,A cock crowed in the distance.,远处有只公鸡在打鸣。,"n.公鸡；龙头；雄鸟；头目
 v.使竖起；使耸立；使朝上
 ","1. A cock crowed in the distance.
 远处有只公鸡在打鸣。
 "
-kiss,"v.吻；（风等）轻拂
+kiss,Maggie leaned forward and kissed her cheek.,玛吉俯身吻了她的脸颊。,"v.吻；（风等）轻拂
 n.吻；轻拂
 ","1. Maggie leaned forward and kissed her cheek.
 玛吉俯身吻了她的脸颊。
@@ -2950,7 +2950,7 @@ n.吻；轻拂
 3. Jim and Mary kissed (= they kissed each other ).
 吉姆和玛丽接了吻。
 "
-band,"n.带，环；[物] 波段；(演奏流行音乐的) 乐队
+band,The band was playing old Beatles songs.,乐队正在演奏披头士的老歌。,"n.带，环；[物] 波段；(演奏流行音乐的) 乐队
 v.用带绑扎；给镶边
 ","1. The band was playing old Beatles songs.
 乐队正在演奏披头士的老歌。
@@ -2965,25 +2965,25 @@ v.用带绑扎；给镶边
 6. interviews with band members
 对乐队成员的采访
 "
-terminal,"n.末端；终点；终端机；极限
+terminal,the airport’s passenger terminal,机场航站楼,"n.末端；终点；终端机；极限
 adj.末端的；终点的；晚期的
 ","1. the airport’s passenger terminal
 机场航站楼
 "
-diversion,"n.转移；消遣；分散注意力
+diversion,Two prisoners created a diversion to give the men time to escape.,两名囚犯想办法分散了大家的注意力，使那些人有时间逃跑。,"n.转移；消遣；分散注意力
 ","1. Two prisoners created a diversion to give the men time to escape.
 两名囚犯想办法分散了大家的注意力，使那些人有时间逃跑。
 "
-scramble,"v.攀登；使混杂，仓促凑成；扰乱
+scramble,Our conversation will be electronically scrambled.,我们的对话将被加以电子扰频。,"v.攀登；使混杂，仓促凑成；扰乱
 n.抢夺，争夺；混乱，混乱的一团；爬行，攀登
 ","1. Our conversation will be electronically scrambled.
 我们的对话将被加以电子扰频。
 "
-specimen,"n.样品，样本；标本
+specimen,a blood specimen,血样,"n.样品，样本；标本
 ","1. a blood specimen
 血样
 "
-friendship,"n.友谊；友爱；友善
+friendship,her close friendship with her aunt,她与姑母的亲密友谊,"n.友谊；友爱；友善
 ","1. her close friendship with her aunt
 她与姑母的亲密友谊
 2. a lifelong friendship
@@ -2993,11 +2993,11 @@ friendship,"n.友谊；友爱；友善
 4. He and Bob struck up a friendship (= began to be friends ) .
 他和鲍勃交了朋友。
 "
-invasion,"n.入侵，侵略；侵袭；侵犯
+invasion,the annual invasion of teenagers for the Glastonbury Festival,每年前来参加格拉斯顿伯里音乐节的青少年的涌入,"n.入侵，侵略；侵袭；侵犯
 ","1. the annual invasion of teenagers for the Glastonbury Festival
 每年前来参加格拉斯顿伯里音乐节的青少年的涌入
 "
-parasite,"n.寄生虫；食客
+parasite,Kangaroos harbour a vast range of parasites.,袋鼠身上有各种各样的寄生虫。,"n.寄生虫；食客
 ","1. Kangaroos harbour a vast range of parasites.
 袋鼠身上有各种各样的寄生虫。
 "

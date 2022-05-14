@@ -1,28 +1,28 @@
-word,trans,example
-gear,"n.齿轮；装置，工具；传动装置
+word,word_sen,word_sen_trans,trans,example
+gear,He’s crazy about photography – he’s got all the gear.,他对摄影很着迷——所有的器材他都有。,"n.齿轮；装置，工具；传动装置
 v.适合；搭上齿轮；开始工作
 adj.好极了
 ","1. He’s crazy about photography – he’s got all the gear.
 他对摄影很着迷——所有的器材他都有。
 "
-layoff,"n.活动停止期间；临时解雇；操作停止；失业期
+layoff,"It will close more than 200 stores nationwide resulting in the layoffs of an estimated 2,000 employees.",在全国范围内将关闭二百多家商店，造成约两千人失业。,"n.活动停止期间；临时解雇；操作停止；失业期
 ","1. It will close more than 200 stores nationwide resulting in the layoffs of an estimated 2,000 employees.
 在全国范围内将关闭二百多家商店，造成约两千人失业。
 "
-shirt,"n.衬衫；汗衫，内衣
+shirt,I have to wear a shirt and tie to work.,我上班要穿衬衫打领带。,"n.衬衫；汗衫，内衣
 ","1. I have to wear a shirt and tie to work.
 我上班要穿衬衫打领带。
 2. a check shirt
 格子衬衫
 "
-lace,"n.花边；鞋带；饰带；少量烈酒
+lace,a handkerchief trimmed with lace,饰有蕾丝花边的手绢,"n.花边；鞋带；饰带；少量烈酒
 v.饰以花边；结带子
 ","1. a handkerchief trimmed with lace
 饰有蕾丝花边的手绢
 2. lace curtains
 网眼窗帘
 "
-breathe,"v.呼吸；低语；松口气；（风）轻拂
+breathe,"The room filled with smoke, and it was becoming difficult to breathe.",房间里全是烟，呼吸越来越困难。,"v.呼吸；低语；松口气；（风）轻拂
 ","1. The room filled with smoke, and it was becoming difficult to breathe.
 房间里全是烟，呼吸越来越困难。
 2. People are concerned about the quality of the air they breathe.
@@ -30,48 +30,48 @@ breathe,"v.呼吸；低语；松口气；（风）轻拂
 3. Relax and breathe deeply (=  take in a lot of air  ) .
 放松，深呼吸。
 "
-symbol,"n.象征；符号；标志
+symbol,The symbol on the packet is a guarantee that the food has been produced organically.,包装盒上的这个标识保证这种食物是有机生产的。,"n.象征；符号；标志
 ","1. The symbol on the packet is a guarantee that the food has been produced organically.
 包装盒上的这个标识保证这种食物是有机生产的。
 "
-eyebrow,"n.眉毛
+eyebrow,thick bushy eyebrows,浓密的眉毛,"n.眉毛
 v.为…描眉；用皱眉蹙额迫使
 ","1. thick bushy eyebrows
 浓密的眉毛
 "
-obedience,"n.顺从；服从；遵守
+obedience,obedience classes for dogs and their owners,为狗和主人安排的服从训练课,"n.顺从；服从；遵守
 ","1. obedience classes for dogs and their owners
 为狗和主人安排的服从训练课
 "
-await,"v.等候，等待；期待
+await,Several men are awaiting trial for robbery.,几个人因抢劫正在候审。,"v.等候，等待；期待
 ","1. Several men are awaiting trial for robbery.
 几个人因抢劫正在候审。
 "
-kilo,"n.千克
+kilo,This kind of chocolate is retailed at one pound a kilo.,这种巧克力糖零售每公斤一英镑。,"n.千克
 ","1. This kind of chocolate is retailed at one pound a kilo.
 这种巧克力糖零售每公斤一英镑。
 "
-pest,"n.害虫；有害之物；讨厌的人
+pest,a chemical used in pest control,用于防治虫害的一种化学品,"n.害虫；有害之物；讨厌的人
 ","1. a chemical used in pest control
 用于防治虫害的一种化学品
 "
-subjective,"adj.主观的；个人的；自觉的
+subjective,"As a critic, he is far too subjective.",作为评论家，他过于主观。,"adj.主观的；个人的；自觉的
 ","1. As a critic, he is far too subjective.
 作为评论家，他过于主观。
 2. a highly subjective point of view
 相当主观的看法
 "
-monetary,"adj.货币的；财政的
+monetary,the government’s tight monetary policy,政府从紧的货币政策,"adj.货币的；财政的
 ","1. the government’s tight monetary policy
 政府从紧的货币政策
 2. objects of little monetary value
 不值钱的物件
 "
-invaluable,"adj.无价的；非常贵重的
+invaluable,I was able to gain invaluable experience over that year.,在那一年里我获得了十分宝贵的经验。,"adj.无价的；非常贵重的
 ","1. I was able to gain invaluable experience over that year.
 在那一年里我获得了十分宝贵的经验。
 "
-miniature,"adj.微型的，小规模的
+miniature,miniature roses,微型玫瑰,"adj.微型的，小规模的
 n.缩图；微型画；微型图画绘画术
 vt.是…的缩影
 ","1. miniature roses
@@ -81,29 +81,29 @@ vt.是…的缩影
 3. He looked like a miniature version of his father.
 他看上去像是他父亲的微缩版。
 "
-dip,"v.浸，泡，蘸；舀取；把伸入
+dip,Dip each apple in the syrup until thickly coated.,把每个苹果在糖浆里蘸一下，直到被厚厚地裹上糖浆。,"v.浸，泡，蘸；舀取；把伸入
 n.下沉，下降；倾斜；浸渍，蘸湿
 ","1. Dip each apple in the syrup until thickly coated.
 把每个苹果在糖浆里蘸一下，直到被厚厚地裹上糖浆。
 "
-parameter,"n.参数；系数；参量
+parameter,...some of the parameters that determine the taste of a wine.,…一些决定葡萄酒味道的参数。,"n.参数；系数；参量
 ","1. ...some of the parameters that determine the taste of a wine.
 …一些决定葡萄酒味道的参数。
 "
-weekday,"n.平日，普通日；工作日
+weekday,"If you want to avoid the crowds, it's best to come on a weekday.",如果你想避开人流，最好在工作日来。,"n.平日，普通日；工作日
 ","1. If you want to avoid the crowds, it's best to come on a weekday.
 如果你想避开人流，最好在工作日来。
 "
-dig,"v.挖，掘；探究
+dig,freshly dug carrots,刚挖出来的胡萝卜,"v.挖，掘；探究
 n.戳，刺；挖苦
 ","1. freshly dug carrots
 刚挖出来的胡萝卜
 "
-balcony,"n.阳台；包厢；戏院楼厅
+balcony,Has your flat got a balcony?,你的公寓有阳台吗？,"n.阳台；包厢；戏院楼厅
 ","1. Has your flat got a balcony?
 你的公寓有阳台吗？
 "
-enemy,"n.敌人，仇敌；敌军
+enemy,She’s a dangerous enemy to have.,与她为敌很危险。,"n.敌人，仇敌；敌军
 adj.敌人的，敌方的
 ","1. She’s a dangerous enemy to have.
 与她为敌很危险。
@@ -116,16 +116,16 @@ adj.敌人的，敌方的
 5. I wouldn’t wishthis on my worst enemy.
 即使是我的死对头，我也不愿看到他发生这样的事情。
 "
-tumour,"n.[肿瘤] 瘤；肿瘤；肿块
+tumour,a brain tumour,脑瘤,"n.[肿瘤] 瘤；肿瘤；肿块
 ","1. a brain tumour
 脑瘤
 "
-descendant,"adj.下降的；祖传的
+descendant,"If you must use descendant selectors, prefer child selectors, which at least only require evaluation of one additional node, not all the intermediate nodes up to an ancestor.",如果您必须使用后代选择器，尽量使用子代选择器，这最少只需评估一个额外的节点，而非中间直至祖先的所有节点。,"adj.下降的；祖传的
 n.后裔；子孙
 ","1. If you must use descendant selectors, prefer child selectors, which at least only require evaluation of one additional node, not all the intermediate nodes up to an ancestor.
 如果您必须使用后代选择器，尽量使用子代选择器，这最少只需评估一个额外的节点，而非中间直至祖先的所有节点。
 "
-epoch,"n.[地质] 世；新纪元；新时代；时间上的一点
+epoch,the Victorian epoch,维多利亚时代,"n.[地质] 世；新纪元；新时代；时间上的一点
 ","1. the Victorian epoch
 维多利亚时代
 2. The king’s death marked the end of an epoch.
@@ -133,7 +133,7 @@ epoch,"n.[地质] 世；新纪元；新时代；时间上的一点
 3. the beginning of a new epoch
 新纪元的开始
 "
-gymnasium,"n.体育馆；健身房
+gymnasium,I have found a new gymnasium.,我找到一个新的健身房。,"n.体育馆；健身房
 ","1. I have found a new gymnasium.
 我找到一个新的健身房。
 2. The next day, the arsonist was arrested at a gymnasium.
@@ -141,19 +141,19 @@ gymnasium,"n.体育馆；健身房
 3. After computer printers and duffle bags had been carried to dorm rooms, everyone gathered in the gymnasium, students on one side of the bleachers, parents on the other.
 电脑打印机和行李包都运进了宿舍之后，所有人都到学校的体育馆集合，学生在露天看台的一侧，家长们在另一侧。
 "
-preside,"v.主持，担任会议主席
+preside,I shall be pleased to preside at your meetings.,我很高兴主持你们的会议。,"v.主持，担任会议主席
 ","1. I shall be pleased to preside at your meetings.
 我很高兴主持你们的会议。
 2. Mr Justice Waller, presiding judge for the northeast
 沃勒法官，东北地区的首席法官
 "
-bronze,"n.青铜；古铜色；青铜制品
+bronze,a bell cast in bronze,青铜浇铸的一口钟,"n.青铜；古铜色；青铜制品
 adj.青铜色的；青铜制的
 v.镀青铜于
 ","1. a bell cast in bronze
 青铜浇铸的一口钟
 "
-classroom,"n.教室
+classroom,The boy bounced out of the classroom.,那男孩突然从教室里奔出去。,"n.教室
 ","1. The boy bounced out of the classroom.
 那男孩突然从教室里奔出去。
 2. The students swarmed out of the classroom.
@@ -161,12 +161,12 @@ classroom,"n.教室
 3. She fainted in the classroom and was carried out.
 她在教室中昏过去了，并被抬了出来。
 "
-sway,"v.影响；统治；使摇动
+sway,Don’t allow yourself to be swayed by his promises.,你可不要听了他的许诺就改变主意呀。,"v.影响；统治；使摇动
 n.影响；摇摆；统治
 ","1. Don’t allow yourself to be swayed by his promises.
 你可不要听了他的许诺就改变主意呀。
 "
-petrol,"n.（英）汽油
+petrol,unleaded petrol,无铅汽油,"n.（英）汽油
 ","1. unleaded petrol
 无铅汽油
 2. petrol prices
@@ -174,17 +174,17 @@ petrol,"n.（英）汽油
 3. The petrol tank is leaking.
 油箱漏了。
 "
-swan,"n.天鹅；天鹅星座
+swan,"Toads pursuit of swans, swan disdain said: If I as long as you die!",癞蛤蟆追求天鹅，天鹅不屑地说：我要是长成你这样早去死了！,"n.天鹅；天鹅星座
 v.游荡，闲荡
 ","1. Toads pursuit of swans, swan disdain said: If I as long as you die!
 癞蛤蟆追求天鹅，天鹅不屑地说：我要是长成你这样早去死了！
 "
-cluster,"n.群；簇；丛；串
+cluster,a diamond cluster ring,群镶钻戒,"n.群；簇；丛；串
 v.群聚；丛生
 ","1. a diamond cluster ring
 群镶钻戒
 "
-lady,"n.女士，夫人；小姐；妻子
+lady,Lady Spencer,斯宾塞夫人,"n.女士，夫人；小姐；妻子
 ","1. Lady Spencer
 斯宾塞夫人
 "
